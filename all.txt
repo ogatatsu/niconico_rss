@@ -5,8 +5,8 @@
       <title>動画ランキング(24時間) - ニコニコ動画</title>
       <link>http://www.nicovideo.jp/ranking/genre/all</link>
       <description>毎時更新</description>
-      <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-      <lastBuildDate>Fri, 21 Feb 2025 04:58:21 +0900</lastBuildDate>
+      <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+      <lastBuildDate>Fri, 21 Feb 2025 05:58:21 +0900</lastBuildDate>
       <generator>ニコニコ動画</generator>
       <language>ja-jp</language>
       <copyright>(c) DWANGO Co., Ltd.</copyright>
@@ -19,1100 +19,1100 @@
         <title>第1位：悪役令嬢転生おじさん 第6話「おじさん、感涙する」</title>
         <link>https://www.nicovideo.jp/watch/so44660859?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/so44660859</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="悪役令嬢転生おじさん 第6話「おじさん、感涙する」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44660859/44660859.16588663" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">マジックエキシビションへ向けて、生徒会屈指の実力を誇るリシャール・ヴェルソーとオーギュスト・リオンの</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">24:05</strong>｜<strong class="nico-info-date">2025年02月20日 01：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">73,176</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8,994</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,127</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">163</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">24:05</strong>｜<strong class="nico-info-date">2025年02月20日 01：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">73,821</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">9,013</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,134</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">163</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第2位：琴葉茜vs家の地下に宝物庫がある採掘ゲーム（後編）【A Game About Digging A Hole】</title>
         <link>https://www.nicovideo.jp/watch/sm44673723?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44673723</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="琴葉茜vs家の地下に宝物庫がある採掘ゲーム（後編）【A Game About Digging A Hole】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44673723/44673723.94510603" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">茜ちゃん「道具を売ってた謎の通販って、結局なんだったんや」琴葉葵「ジェットパックを売ってたり技術は凄</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">6:56</strong>｜<strong class="nico-info-date">2025年02月20日 21：54：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">13,642</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">657</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,568</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">34</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">6:56</strong>｜<strong class="nico-info-date">2025年02月20日 21：54：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">14,265</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">695</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,676</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">37</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第3位：琴葉茜vs家の地下で探鉱を発見する採掘ゲーム（中編）【A Game About Digging A Hole】</title>
         <link>https://www.nicovideo.jp/watch/sm44668938?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44668938</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="琴葉茜vs家の地下で探鉱を発見する採掘ゲーム（中編）【A Game About Digging A Hole】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668938/44668938.16536056" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">茜ちゃん「あっても困るよな、炭鉱なんて」琴葉葵「毒クモスポナーありそうだもんね」◇マイリスト&nbs</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">7:07</strong>｜<strong class="nico-info-date">2025年02月19日 21：55：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">35,120</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">873</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,997</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">54</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">7:07</strong>｜<strong class="nico-info-date">2025年02月19日 21：55：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">35,337</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">874</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,008</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">54</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第4位：君のことが大大大大大好きな100人の彼女 第2期 第18話「君のホームランに誓う」</title>
         <link>https://www.nicovideo.jp/watch/so44647973?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/so44647973</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="君のことが大大大大大好きな100人の彼女 第2期 第18話「君のホームランに誓う」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44647973/44647973.59920424" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">女子野球部存続のため、練習試合に出ることになった恋太郎ファミリー。誰よりも過酷な練習をしてきた育だっ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">23:50</strong>｜<strong class="nico-info-date">2025年02月19日 23：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">66,607</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">11,496</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,408</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">105</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">23:50</strong>｜<strong class="nico-info-date">2025年02月19日 23：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">67,062</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">11,519</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,413</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">104</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第5位：「メキシコ湾」をめぐる対立が激化している件について</title>
         <link>https://www.nicovideo.jp/watch/sm44670455?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44670455</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="「メキシコ湾」をめぐる対立が激化している件について" src="https://nicovideo.cdn.nimg.jp/thumbnails/44670455/44670455.8752949" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">使わせていただいているもの(敬称略)VOICEVOX/hiho[ https://voicevox.</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:49</strong>｜<strong class="nico-info-date">2025年02月20日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">11,687</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">822</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,480</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">27</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:49</strong>｜<strong class="nico-info-date">2025年02月20日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">11,945</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">831</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,510</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">27</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第6位：【SYNDUALITY Echo of Ada】様々な修正と調整で神ゲーに至るシンデュアリティ【VOICEROID実況/シンデュアリティ】</title>
         <link>https://www.nicovideo.jp/watch/sm44672576?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672576</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【SYNDUALITY Echo of Ada】様々な修正と調整で神ゲーに至るシンデュアリティ【VOICEROID実況/シンデュアリティ】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672576/44672576.72713200" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">神ゲーシンデュアリティ始まりましたねYouTubeにてゲリラで配信やってますんでおっさんの声に耐性の</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">11:26</strong>｜<strong class="nico-info-date">2025年02月20日 18：09：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">11,218</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,309</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">930</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">11</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">11:26</strong>｜<strong class="nico-info-date">2025年02月20日 18：09：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">11,444</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,330</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">943</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">11</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第7位：レーダーで捕捉された謎の生命体</title>
         <link>https://www.nicovideo.jp/watch/sm44669148?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44669148</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="レーダーで捕捉された謎の生命体" src="https://nicovideo.cdn.nimg.jp/thumbnails/44669148/44669148.37866127" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">初捕捉です</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">1:31</strong>｜<strong class="nico-info-date">2025年02月20日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">25,539</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">440</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">898</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">50</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:31</strong>｜<strong class="nico-info-date">2025年02月20日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">25,860</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">440</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">906</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">51</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第8位：【宮田ニキ降臨】青春不動産/リアルVS夢【有吉の壁】【エビプリ】</title>
         <link>https://www.nicovideo.jp/watch/sm44663481?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44663481</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【宮田ニキ降臨】青春不動産/リアルVS夢【有吉の壁】【エビプリ】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44663481/44663481.44306835" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">有吉の壁ブレイクアーティスト選手権より物件探す系ミュージカル青春不動産第3弾ニコニコ界から宮田ニキが</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:55</strong>｜<strong class="nico-info-date">2025年02月19日 20：25：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">52,324</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,570</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,146</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">222</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:55</strong>｜<strong class="nico-info-date">2025年02月19日 20：25：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">52,808</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,571</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,160</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">224</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第9位：【音街ウナ実況】Titanium Raiders エリア脱出RTA 01:24【74円】</title>
         <link>https://www.nicovideo.jp/watch/sm44671311?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44671311</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【音街ウナ実況】Titanium Raiders エリア脱出RTA 01:24【74円】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44671311/44671311.12046717" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">本当は同じセリフを話す予定でしたが、せっかく別動画になるので前日の自分に全て打ち直させました。そして</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:51</strong>｜<strong class="nico-info-date">2025年02月20日 12：59：12</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,759</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">524</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">905</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">13</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:51</strong>｜<strong class="nico-info-date">2025年02月20日 12：59：12</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,900</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">524</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">912</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">13</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第10位：日本へようこそエルフさん。 第6話「フレンチですよ、エルフさん。」</title>
         <link>https://www.nicovideo.jp/watch/so44660863?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/so44660863</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="日本へようこそエルフさん。 第6話「フレンチですよ、エルフさん。」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44660863/44660863.66105883" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">地下迷宮が発見されたことで、アリライ国の街は活気に包まれている。その頃、ナズルナズル遺跡では、かつて</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">23:35</strong>｜<strong class="nico-info-date">2025年02月20日 02：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">23,317</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,788</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">292</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">79</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">23:35</strong>｜<strong class="nico-info-date">2025年02月20日 02：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">23,537</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,796</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">294</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">79</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第11位：ペンギンに支配されたホテルに囚われるホラーゲーム『ペンギンホテル』【VOICEROID実況/結月ゆかり・紲星あかり】</title>
         <link>https://www.nicovideo.jp/watch/sm44672719?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672719</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="ペンギンに支配されたホテルに囚われるホラーゲーム『ペンギンホテル』【VOICEROID実況/結月ゆかり・紲星あかり】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672719/44672719.69595427" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ペンギンホテル2：来月番外編（8番出口ライク）：sm44661322●動画シリーズhttps://w</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">24:59</strong>｜<strong class="nico-info-date">2025年02月20日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,229</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,078</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">654</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">19</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">24:59</strong>｜<strong class="nico-info-date">2025年02月20日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,432</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,090</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">668</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">19</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第12位：頭を落とした足立レイ【VOICEROID劇場】</title>
-        <link>https://www.nicovideo.jp/watch/sm44669313?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44669313</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="頭を落とした足立レイ【VOICEROID劇場】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44669313/44669313.99604263" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">レイちゃんよりトバリさんのほうがポンコツ設定です。マイリス→mylist/65564069■おかりし</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">1:50</strong>｜<strong class="nico-info-date">2025年02月19日 23：31：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,210</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">319</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,129</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">42</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第13位：[ゆっくり実況]　えんまぐ　その10</title>
+        <title>第12位：[ゆっくり実況]　えんまぐ　その10</title>
         <link>https://www.nicovideo.jp/watch/sm44668189?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44668189</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="[ゆっくり実況]　えんまぐ　その10" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668189/44668189.21704501" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ENDER MAGNOLIAを遊びます。https://store.steampowered.com</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">15:12</strong>｜<strong class="nico-info-date">2025年02月20日 12：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">6,452</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">469</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">717</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">18</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">15:12</strong>｜<strong class="nico-info-date">2025年02月20日 12：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">6,532</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">469</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">721</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">18</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第14位：『寒い中食べる激辛』VS『暑い中食べるアイス』美味いのはどっち？</title>
+        <title>第13位：『寒い中食べる激辛』VS『暑い中食べるアイス』美味いのはどっち？</title>
         <link>https://www.nicovideo.jp/watch/sm44672837?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672837</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="『寒い中食べる激辛』VS『暑い中食べるアイス』美味いのはどっち？" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672837/44672837.6223987" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">動画内BGM：若林タカツグさんhttps://twitter.com/cocoa2448/Twitt</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">8:56</strong>｜<strong class="nico-info-date">2025年02月20日 19：13：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">6,823</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">560</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">634</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">22</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">8:56</strong>｜<strong class="nico-info-date">2025年02月20日 19：13：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,010</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">562</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">645</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">22</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第14位：頭を落とした足立レイ【VOICEROID劇場】</title>
+        <link>https://www.nicovideo.jp/watch/sm44669313?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44669313</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="頭を落とした足立レイ【VOICEROID劇場】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44669313/44669313.99604263" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">レイちゃんよりトバリさんのほうがポンコツ設定です。マイリス→mylist/65564069■おかりし</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:50</strong>｜<strong class="nico-info-date">2025年02月19日 23：31：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,282</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">320</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,135</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">42</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第15位：[ゆっくり実況]　あすとれあ　その1</title>
         <link>https://www.nicovideo.jp/watch/sm44664911?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44664911</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="[ゆっくり実況]　あすとれあ　その1" src="https://nicovideo.cdn.nimg.jp/thumbnails/44664911/44664911.143097" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">Astrea: Six-Sided Oraclesを遊びます。https://store.steam</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">20:23</strong>｜<strong class="nico-info-date">2025年02月19日 22：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">16,600</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">433</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">927</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">39</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">20:23</strong>｜<strong class="nico-info-date">2025年02月19日 22：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">16,727</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">434</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">929</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">39</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第16位：釣れなくても料理！黒糖蒸しパン！【VOICEROIDキッチン】</title>
         <link>https://www.nicovideo.jp/watch/sm44656432?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44656432</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="釣れなくても料理！黒糖蒸しパン！【VOICEROIDキッチン】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44656432/44656432.25616196" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">アドバイス求む（割と真剣に）。普段魚釣って食べる動画などやってます。釣った魚は最後まで　一覧　myl</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:43</strong>｜<strong class="nico-info-date">2025年02月19日 17：52：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">10,956</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">541</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,648</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">43</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:43</strong>｜<strong class="nico-info-date">2025年02月19日 17：52：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">10,997</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">541</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,659</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">44</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第17位：カードショップあまくだり、3度目のネット回線トラブルでオーナー倒れる</title>
-        <link>https://www.nicovideo.jp/watch/sm44668124?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44668124</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="カードショップあまくだり、3度目のネット回線トラブルでオーナー倒れる" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668124/44668124.91377053" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">カードショップあまくだり公式X https://twitter.com/Amakudari_card</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:07</strong>｜<strong class="nico-info-date">2025年02月19日 18：47：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">27,634</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">596</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,228</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">21</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第18位：◆都市伝説解体センター　実況プレイ◆part4</title>
+        <title>第17位：◆都市伝説解体センター　実況プレイ◆part4</title>
         <link>https://www.nicovideo.jp/watch/sm44672649?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672649</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="◆都市伝説解体センター　実況プレイ◆part4" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672649/44672649.85464729" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">▽【ネタバレ注意！】 『都市伝説解体センター』の実況プレイです（Switch版を使用）ケレン味としか</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">29:09</strong>｜<strong class="nico-info-date">2025年02月20日 19：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">6,208</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,261</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">749</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">25</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">29:09</strong>｜<strong class="nico-info-date">2025年02月20日 19：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">6,368</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,266</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">763</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">25</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第18位：カードショップあまくだり、3度目のネット回線トラブルでオーナー倒れる</title>
+        <link>https://www.nicovideo.jp/watch/sm44668124?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44668124</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="カードショップあまくだり、3度目のネット回線トラブルでオーナー倒れる" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668124/44668124.91377053" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">カードショップあまくだり公式X https://twitter.com/Amakudari_card</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:07</strong>｜<strong class="nico-info-date">2025年02月19日 18：47：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">27,715</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">596</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,230</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">20</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第19位：【Poly Bridge 3】橋を架けるゲーム(自称)Part51【VOICEROID実況プレイ】</title>
         <link>https://www.nicovideo.jp/watch/sm44666551?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44666551</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【Poly Bridge 3】橋を架けるゲーム(自称)Part51【VOICEROID実況プレイ】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666551/44666551.19732670" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ウィークリーチャレンジ81～84この動画でやったゲームSteamストア https://store.</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">6:29</strong>｜<strong class="nico-info-date">2025年02月20日 16：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,741</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">299</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">687</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">22</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">6:29</strong>｜<strong class="nico-info-date">2025年02月20日 16：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,826</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">300</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">696</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">22</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第20位：あ　の　感　動　OB.mp161</title>
         <link>https://www.nicovideo.jp/watch/sm44668582?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44668582</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="あ　の　感　動　OB.mp161" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668582/44668582.40412853" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">「（感動の方向性が）違うだろぉ？」※規制喰らったので上げ直しました。コメントして頂いた皆様申し訳ござ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">5:36</strong>｜<strong class="nico-info-date">2025年02月19日 22：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">15,667</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">325</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">375</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">4</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">5:36</strong>｜<strong class="nico-info-date">2025年02月19日 22：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">15,897</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">328</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">378</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">4</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第21位：迫真スポーツ部・空手以外の裏技</title>
         <link>https://www.nicovideo.jp/watch/sm44669407?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44669407</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="迫真スポーツ部・空手以外の裏技" src="https://nicovideo.cdn.nimg.jp/thumbnails/44669407/44669407.24559413" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">流石に空手部に空手以外のスポーツをさせたくなったので憐憫投稿です。</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">1:37</strong>｜<strong class="nico-info-date">2025年02月20日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">19,186</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">431</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">673</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">70</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:37</strong>｜<strong class="nico-info-date">2025年02月20日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">19,365</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">431</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">678</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">71</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第22位：残業中ツコって女上司に怒られたことを本物のひろゆきに相談してみた</title>
         <link>https://www.nicovideo.jp/watch/sm44673350?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44673350</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="残業中ツコって女上司に怒られたことを本物のひろゆきに相談してみた" src="https://nicovideo.cdn.nimg.jp/thumbnails/44673350/44673350.28567217" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">VOICEVOX:ずんだもんVOICEVOX:四国めたんVOICEVOX:春日部つむぎ本物:ひろゆき</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:19</strong>｜<strong class="nico-info-date">2025年02月20日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,117</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">328</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">521</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">39</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:19</strong>｜<strong class="nico-info-date">2025年02月20日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,299</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">331</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">534</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">41</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第23位：◆都市伝説解体センター　実況プレイ◆part3</title>
         <link>https://www.nicovideo.jp/watch/sm44667959?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44667959</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="◆都市伝説解体センター　実況プレイ◆part3" src="https://nicovideo.cdn.nimg.jp/thumbnails/44667959/44667959.35953093" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">▽【ネタバレ注意！】 『都市伝説解体センター』の実況プレイです（Switch版を使用）ジャスミン先輩</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">29:21</strong>｜<strong class="nico-info-date">2025年02月19日 19：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">13,353</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,414</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,352</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">32</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">29:21</strong>｜<strong class="nico-info-date">2025年02月19日 19：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">13,424</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,419</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,356</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">32</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第24位：大阪万博、ボランティア募集するも参加者15人で逝く…</title>
         <link>https://www.nicovideo.jp/watch/sm44672425?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672425</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="大阪万博、ボランティア募集するも参加者15人で逝く…" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672425/44672425.95865849" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ほとんどつぶやかないツイッター　ご連絡はここまでhttps://twitter.com/Xhm6g2</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">9:00</strong>｜<strong class="nico-info-date">2025年02月20日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,228</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,302</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">368</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">23</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">9:00</strong>｜<strong class="nico-info-date">2025年02月20日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,503</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,317</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">372</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">22</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第25位：【DON&#039;T SCREAM】ホラゲーに絶望するんなたんの迫真の表情で爆笑するスバル</title>
         <link>https://www.nicovideo.jp/watch/sm44669524?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44669524</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【DON&#039;T SCREAM】ホラゲーに絶望するんなたんの迫真の表情で爆笑するスバル" src="https://nicovideo.cdn.nimg.jp/thumbnails/44669524/44669524.12244448" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">まんじゅうかわいい#00:00 スバルこのゲーム得意なんで#01:03 ゲーム開始・音に過敏なんなた</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">13:32</strong>｜<strong class="nico-info-date">2025年02月20日 10：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,562</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">614</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">354</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">56</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">13:32</strong>｜<strong class="nico-info-date">2025年02月20日 10：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,677</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">620</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">358</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">58</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第26位：ニィーアー！</title>
         <link>https://www.nicovideo.jp/watch/sm44666720?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666720</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="ニィーアー！" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666720/44666720.82303199" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">初星学園の皆さんごめんなさい</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">1:55</strong>｜<strong class="nico-info-date">2025年02月19日 07：49：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,985</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">187</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">650</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">110</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:55</strong>｜<strong class="nico-info-date">2025年02月19日 07：49：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">10,122</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">187</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">657</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">112</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第27位：豚ヒレステーキ【きりたんの超雑レシピ #58】</title>
         <link>https://www.nicovideo.jp/watch/sm44668193?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44668193</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="豚ヒレステーキ【きりたんの超雑レシピ #58】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668193/44668193.48464398" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">＜材料(2人分)＞豚ヒレ：200gしめじ：1パック玉ねぎ：1/2個ニンニク：１欠け味ぽん：大さじ3砂</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:15</strong>｜<strong class="nico-info-date">2025年02月20日 05：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,192</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">202</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">553</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">31</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:15</strong>｜<strong class="nico-info-date">2025年02月20日 05：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,222</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">202</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">554</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">31</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第28位：◆ポケモンスカーレット ゼロの秘宝　実況プレイ◆part20</title>
-        <link>https://www.nicovideo.jp/watch/sm44665709?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44665709</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="◆ポケモンスカーレット ゼロの秘宝　実況プレイ◆part20" src="https://nicovideo.cdn.nimg.jp/thumbnails/44665709/44665709.64198863" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">▽ Switchで発売された『ポケットモンスタースカーレット ゼロの秘宝』の実況プレイですあなたが4</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">41:25</strong>｜<strong class="nico-info-date">2025年02月19日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">12,459</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,164</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,366</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">33</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第29位：Re:ゼロから始める異世界生活　3rd season　第61話　リリアナ・マスカレード</title>
-        <link>https://www.nicovideo.jp/watch/so44663610?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/so44663610</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="Re:ゼロから始める異世界生活　3rd season　第61話　リリアナ・マスカレード" src="https://nicovideo.cdn.nimg.jp/thumbnails/44663610/44663610.20939692" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">吟遊詩人の一族に生まれ、独り立ちしたのはわずか齢十三のとき。リリアナ・マスカレードの大冒険は、水門都</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2025年02月19日 23：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">10,403</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">832</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">202</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">33</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第30位：「疑似ガム」</title>
-        <link>https://www.nicovideo.jp/watch/sm44638569?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44638569</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="「疑似ガム」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44638569/44638569.63745077" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">フォント：ラノベPOP V2 ボイス：VOICEPEAK(女性1) 立ち絵：KARO</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">0:43</strong>｜<strong class="nico-info-date">2025年02月19日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">18,074</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">391</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,683</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">26</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第31位：#16【 #partyanimals  】Amo〇gUs風宇宙人狼モード！船内で炎上発生！船を守れ！編 #voiceroid実況 #ゆっくり実況</title>
+        <title>第28位：#16【 #partyanimals  】Amo〇gUs風宇宙人狼モード！船内で炎上発生！船を守れ！編 #voiceroid実況 #ゆっくり実況</title>
         <link>https://www.nicovideo.jp/watch/sm44672411?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672411</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="#16【 #partyanimals  】Amo〇gUs風宇宙人狼モード！船内で炎上発生！船を守れ！編 #voiceroid実況 #ゆっくり実況" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672411/44672411.40221306" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">今回はクルー視点動画ですやっぱり箱コンには慣れないぜ・・・！ニコニコチャンネルhttps://ch.</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">9:12</strong>｜<strong class="nico-info-date">2025年02月20日 20：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,449</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">227</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">494</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">22</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">9:12</strong>｜<strong class="nico-info-date">2025年02月20日 20：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,578</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">236</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">507</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">23</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第29位：◆ポケモンスカーレット ゼロの秘宝　実況プレイ◆part20</title>
+        <link>https://www.nicovideo.jp/watch/sm44665709?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44665709</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="◆ポケモンスカーレット ゼロの秘宝　実況プレイ◆part20" src="https://nicovideo.cdn.nimg.jp/thumbnails/44665709/44665709.64198863" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">▽ Switchで発売された『ポケットモンスタースカーレット ゼロの秘宝』の実況プレイですあなたが4</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">41:25</strong>｜<strong class="nico-info-date">2025年02月19日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">12,524</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,164</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,367</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">33</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第30位：Re:ゼロから始める異世界生活　3rd season　第61話　リリアナ・マスカレード</title>
+        <link>https://www.nicovideo.jp/watch/so44663610?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/so44663610</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="Re:ゼロから始める異世界生活　3rd season　第61話　リリアナ・マスカレード" src="https://nicovideo.cdn.nimg.jp/thumbnails/44663610/44663610.20939692" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">吟遊詩人の一族に生まれ、独り立ちしたのはわずか齢十三のとき。リリアナ・マスカレードの大冒険は、水門都</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2025年02月19日 23：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">10,451</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">834</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">203</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">33</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第31位：「疑似ガム」</title>
+        <link>https://www.nicovideo.jp/watch/sm44638569?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44638569</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="「疑似ガム」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44638569/44638569.63745077" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">フォント：ラノベPOP V2 ボイス：VOICEPEAK(女性1) 立ち絵：KARO</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">0:43</strong>｜<strong class="nico-info-date">2025年02月19日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">18,136</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">391</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,684</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">26</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第32位：きりたんがふしぎなブロビーを実況プレイ #6</title>
         <link>https://www.nicovideo.jp/watch/sm44640369?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44640369</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="きりたんがふしぎなブロビーを実況プレイ #6" src="https://nicovideo.cdn.nimg.jp/thumbnails/44640369/44640369.12104269" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">XとTwitterに上げていたショート実況をまとめて少し修正したものです実況したゲーム:ふしぎなブロ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">5:43</strong>｜<strong class="nico-info-date">2025年02月20日 17：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,734</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">282</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">545</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">21</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">5:43</strong>｜<strong class="nico-info-date">2025年02月20日 17：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,808</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">283</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">554</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">21</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第33位：【解説】『人類は強力な毒をも薬にしてしまった』 A型ボツリヌス毒素（ボトックス）【宮舞モカのお薬ラジオ #30】</title>
-        <link>https://www.nicovideo.jp/watch/sm44653740?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44653740</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【解説】『人類は強力な毒をも薬にしてしまった』 A型ボツリヌス毒素（ボトックス）【宮舞モカのお薬ラジオ #30】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44653740/44653740.34697994" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">定期的に、１つのお薬を取り上げて詳しく解説する企画です。毎週水曜日投稿予定です。いいねを押すとプチお</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:07</strong>｜<strong class="nico-info-date">2025年02月19日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,859</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">539</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,351</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">46</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第34位：琴葉茜vs自分の家の庭で埋蔵金探しするゲーム（前編）【A Game About Digging A Hole】</title>
+        <title>第33位：琴葉茜vs自分の家の庭で埋蔵金探しするゲーム（前編）【A Game About Digging A Hole】</title>
         <link>https://www.nicovideo.jp/watch/sm44665264?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-18:/watch/sm44665264</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="琴葉茜vs自分の家の庭で埋蔵金探しするゲーム（前編）【A Game About Digging A Hole】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44665264/44665264.78018057" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">茜ちゃん「仮に自分の家の庭に徳川の埋蔵金とか言われたら、何割の人が信じるんやろな」 琴葉葵「ゼロでは</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">6:59</strong>｜<strong class="nico-info-date">2025年02月18日 20：40：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">42,398</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,197</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,453</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">64</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">6:59</strong>｜<strong class="nico-info-date">2025年02月18日 20：40：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">42,503</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,197</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,457</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">63</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第35位：亡くなった人の家を掃除する恐ろしすぎなホラーゲーム『特殊清掃』_全エンド【VOICEROID実況/結月ゆかり・紲星あかり】</title>
-        <link>https://www.nicovideo.jp/watch/sm44667747?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44667747</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="亡くなった人の家を掃除する恐ろしすぎなホラーゲーム『特殊清掃』_全エンド【VOICEROID実況/結月ゆかり・紲星あかり】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44667747/44667747.29423607" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">同作者さんの前作：sm43044319●動画シリーズhttps://www.nicovideo.jp</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">41:23</strong>｜<strong class="nico-info-date">2025年02月19日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">18,596</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,211</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">928</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">24</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第36位：愛知県のソウルフード、鎌倉ハムの「Ｋウインナー」</title>
+        <title>第34位：愛知県のソウルフード、鎌倉ハムの「Ｋウインナー」</title>
         <link>https://www.nicovideo.jp/watch/sm44669881?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44669881</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="愛知県のソウルフード、鎌倉ハムの「Ｋウインナー」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44669881/44669881.16731460" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">東海地方のローカルＣＭとして昔、頻繁に流れていたものが 鎌倉ハムのＫウインナー。 ある年齢以上の人に</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">5:23</strong>｜<strong class="nico-info-date">2025年02月20日 06：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,846</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">405</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">410</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">5:23</strong>｜<strong class="nico-info-date">2025年02月20日 06：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,913</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">406</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">414</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第35位：【解説】『人類は強力な毒をも薬にしてしまった』 A型ボツリヌス毒素（ボトックス）【宮舞モカのお薬ラジオ #30】</title>
+        <link>https://www.nicovideo.jp/watch/sm44653740?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44653740</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【解説】『人類は強力な毒をも薬にしてしまった』 A型ボツリヌス毒素（ボトックス）【宮舞モカのお薬ラジオ #30】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44653740/44653740.34697994" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">定期的に、１つのお薬を取り上げて詳しく解説する企画です。毎週水曜日投稿予定です。いいねを押すとプチお</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:07</strong>｜<strong class="nico-info-date">2025年02月19日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,899</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">539</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,358</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">46</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第36位：亡くなった人の家を掃除する恐ろしすぎなホラーゲーム『特殊清掃』_全エンド【VOICEROID実況/結月ゆかり・紲星あかり】</title>
+        <link>https://www.nicovideo.jp/watch/sm44667747?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44667747</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="亡くなった人の家を掃除する恐ろしすぎなホラーゲーム『特殊清掃』_全エンド【VOICEROID実況/結月ゆかり・紲星あかり】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44667747/44667747.29423607" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">同作者さんの前作：sm43044319●動画シリーズhttps://www.nicovideo.jp</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">41:23</strong>｜<strong class="nico-info-date">2025年02月19日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">18,693</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,211</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">929</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">24</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第37位：沖縄で好きになった子が方言すぎてツラすぎる 第7話「ななち（#7）「ハブとマングース」」</title>
         <link>https://www.nicovideo.jp/watch/so44647964?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/so44647964</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="沖縄で好きになった子が方言すぎてツラすぎる 第7話「ななち（#7）「ハブとマングース」」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44647964/44647964.82477609" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">台風で父親が帰ってこられず、家に一人きりになってしまったてーるー。停電になり、水も止まって絶体絶命！</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2025年02月19日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">45,614</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">11,411</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">786</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">103</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2025年02月19日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">45,779</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">11,431</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">786</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">103</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第38位：BLUE BACK / じん【Official MV】</title>
-        <link>https://www.nicovideo.jp/watch/sm44664536?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44664536</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="BLUE BACK / じん【Official MV】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44664536/44664536.25310356" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">「青」が 聴こえるMusic：じんRhythm Guitar：じんLead Guitar：野中海Ba</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:08</strong>｜<strong class="nico-info-date">2025年02月19日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">14,971</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">280</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">786</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">383</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第39位：それやだ。</title>
-        <link>https://www.nicovideo.jp/watch/sm44666037?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666037</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="それやだ。" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666037/44666037.84191306" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">絵は全部私が描きました。今回から無印アイボスもアイボス 2で動かしてるのでモーラ単位で調声されてます</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">0:50</strong>｜<strong class="nico-info-date">2025年02月19日 00：00：05</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">20,375</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">212</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,021</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">97</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第40位：【スゴイツヨイトウフ】とうふ昔ばなし・すごいつよいとうふ【VOICEROID実況】</title>
+        <title>第38位：【スゴイツヨイトウフ】とうふ昔ばなし・すごいつよいとうふ【VOICEROID実況】</title>
         <link>https://www.nicovideo.jp/watch/sm44674212?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44674212</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【スゴイツヨイトウフ】とうふ昔ばなし・すごいつよいとうふ【VOICEROID実況】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44674212/44674212.15719077" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">画面の前のあなたもとうふになれ。◆My Nintendoストアページhttps://store-jp</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">12:18</strong>｜<strong class="nico-info-date">2025年02月20日 23：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,739</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">639</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">491</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">13</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">12:18</strong>｜<strong class="nico-info-date">2025年02月20日 23：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,007</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">666</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">535</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">15</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第41位：【なのそん：生声AmongUs】醜い人外の宴【嫁あき編集シリーズ#3】</title>
+        <title>第39位：BLUE BACK / じん【Official MV】</title>
+        <link>https://www.nicovideo.jp/watch/sm44664536?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44664536</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="BLUE BACK / じん【Official MV】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44664536/44664536.25310356" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">「青」が 聴こえるMusic：じんRhythm Guitar：じんLead Guitar：野中海Ba</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:08</strong>｜<strong class="nico-info-date">2025年02月19日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">15,185</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">280</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">788</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">386</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第40位：【なのそん：生声AmongUs】醜い人外の宴【嫁あき編集シリーズ#3】</title>
         <link>https://www.nicovideo.jp/watch/sm44672690?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672690</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【なのそん：生声AmongUs】醜い人外の宴【嫁あき編集シリーズ#3】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672690/44672690.79675522" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">今回はなのそん妙楽スペシャルルール（特殊能力ましまし）回の生声動画です！作成・動画編集は嫁あきです前</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">8:37</strong>｜<strong class="nico-info-date">2025年02月20日 18：22：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,108</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">146</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">398</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">22</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">8:37</strong>｜<strong class="nico-info-date">2025年02月20日 18：22：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,160</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">148</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">409</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">22</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第41位：それやだ。</title>
+        <link>https://www.nicovideo.jp/watch/sm44666037?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666037</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="それやだ。" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666037/44666037.84191306" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">絵は全部私が描きました。今回から無印アイボスもアイボス 2で動かしてるのでモーラ単位で調声されてます</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">0:50</strong>｜<strong class="nico-info-date">2025年02月19日 00：00：05</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">20,440</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">212</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,023</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">97</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第42位：マヴ戦術</title>
         <link>https://www.nicovideo.jp/watch/sm44595244?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-02:/watch/sm44595244</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="マヴ戦術" src="https://nicovideo.cdn.nimg.jp/thumbnails/44595244/44595244.80244877" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">※生成AI使用元ネタ→https://x.com/Gensho_Basho/status/18805</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">0:23</strong>｜<strong class="nico-info-date">2025年02月02日 19：12：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">137,983</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">362</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,470</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">412</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">0:23</strong>｜<strong class="nico-info-date">2025年02月02日 19：12：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">138,127</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">362</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,471</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">412</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第43位：フランスが小麦の輸出量大幅減少！国内外の政治にも影響が！【A.I.VOICE解説】</title>
         <link>https://www.nicovideo.jp/watch/sm44666859?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666859</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="フランスが小麦の輸出量大幅減少！国内外の政治にも影響が！【A.I.VOICE解説】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666859/44666859.15391137" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">日本の米は国内消費が大多数だから単純な比較はできないけれど、主要産業の停滞が国内外の政治に影響を及ぼ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:49</strong>｜<strong class="nico-info-date">2025年02月19日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,795</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">306</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,018</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">21</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:49</strong>｜<strong class="nico-info-date">2025年02月19日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,824</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">306</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,021</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">21</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第44位：いずれ最強の錬金術師？ 第七話「王都の狐耳少女」</title>
         <link>https://www.nicovideo.jp/watch/so44647959?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/so44647959</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="いずれ最強の錬金術師？ 第七話「王都の狐耳少女」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44647959/44647959.81608371" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ドレイクホースのツバキが仲間になり、馬車製作にも力が入るタクミ。寝る間も惜しむ熱の入れようにソフィア</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2025年02月19日 22：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">13,212</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,896</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">152</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">51</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2025年02月19日 22：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">13,318</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,900</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">153</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">50</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第45位：絆創合体されました？【戦隊レッド 異世界で冒険者になる】</title>
         <link>https://www.nicovideo.jp/watch/sm44659453?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-17:/watch/sm44659453</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="絆創合体されました？【戦隊レッド 異世界で冒険者になる】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44659453/44659453.98085497" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">こいつら絆創合体したんだ！</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">1:05</strong>｜<strong class="nico-info-date">2025年02月17日 01：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">64,188</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">362</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">546</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">94</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:05</strong>｜<strong class="nico-info-date">2025年02月17日 01：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">64,309</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">363</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">546</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">94</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第46位：【評価未定】Titanium Raiders エリア脱出RTA 01:23【74円】</title>
-        <link>https://www.nicovideo.jp/watch/sm44666539?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666539</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【評価未定】Titanium Raiders エリア脱出RTA 01:23【74円】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666539/44666539.83802129" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">BGMとSEは豪華各１種類。最後に流しているのはRTA前に録画した通常プレイなので、強化量やランキン</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:12</strong>｜<strong class="nico-info-date">2025年02月19日 09：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">16,396</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">604</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,130</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">33</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第47位：【CUPHEAD】リベンジ・オブ・ティーカップ#11【VOICEROID実況】</title>
+        <title>第46位：【CUPHEAD】リベンジ・オブ・ティーカップ#11【VOICEROID実況】</title>
         <link>https://www.nicovideo.jp/watch/sm44669305?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44669305</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【CUPHEAD】リベンジ・オブ・ティーカップ#11【VOICEROID実況】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44669305/44669305.61685270" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">本編開幕■プレイ環境Nintendo Switch■担当実況プレイ担当：東北ずん子ガヤ担当：音街ウナ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:23</strong>｜<strong class="nico-info-date">2025年02月20日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,948</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">135</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">375</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:23</strong>｜<strong class="nico-info-date">2025年02月20日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,992</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">135</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">378</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第48位：Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。 第6話「無色の闇」</title>
-        <link>https://www.nicovideo.jp/watch/so44647958?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/so44647958</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <title>第47位：【評価未定】Titanium Raiders エリア脱出RTA 01:23【74円】</title>
+        <link>https://www.nicovideo.jp/watch/sm44666539?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666539</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。 第6話「無色の闇」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44647958/44647958.45498948" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">国選依頼（ミッション）を引き受け、Cランクパーティながら「無色の闇」の調査を行うことになった「クロー</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">23:01</strong>｜<strong class="nico-info-date">2025年02月19日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">13,850</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,678</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">139</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">52</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="【評価未定】Titanium Raiders エリア脱出RTA 01:23【74円】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666539/44666539.83802129" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">BGMとSEは豪華各１種類。最後に流しているのはRTA前に録画した通常プレイなので、強化量やランキン</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:12</strong>｜<strong class="nico-info-date">2025年02月19日 09：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">16,456</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">604</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,130</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">33</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第49位：【ゆっくり実況】影地ャタマネギ Part.52【エルデンリング】</title>
+        <title>第48位：【ゆっくり実況】影地ャタマネギ Part.52【エルデンリング】</title>
         <link>https://www.nicovideo.jp/watch/sm44672459?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672459</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【ゆっくり実況】影地ャタマネギ Part.52【エルデンリング】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672459/44672459.61934969" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ウ……ウソやろ こ……こんなことがこ……こんなことが許されていいのかエルデンリングマイリスト→myl</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">12:24</strong>｜<strong class="nico-info-date">2025年02月20日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,117</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">460</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">309</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">11</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">12:24</strong>｜<strong class="nico-info-date">2025年02月20日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,208</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">471</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">317</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">12</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第50位：【いのちごいとお書きください】ゾッとするyahoo知恵袋の怖い質問10選【ゆっくり解説】</title>
-        <link>https://www.nicovideo.jp/watch/sm44662800?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44662800</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【いのちごいとお書きください】ゾッとするyahoo知恵袋の怖い質問10選【ゆっくり解説】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44662800/44662800.49035415" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">マイリスト➡mylist/71081372検索してはいけない➡mylist/74352054お悩み相</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">27:28</strong>｜<strong class="nico-info-date">2025年02月19日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,351</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,128</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">406</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">16</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第51位：【ウーマンコミュニケーション】バカゲー探訪記 #40「スペルマスター葵」【ボイスロイド実況】</title>
-        <link>https://www.nicovideo.jp/watch/sm44668050?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44668050</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【ウーマンコミュニケーション】バカゲー探訪記 #40「スペルマスター葵」【ボイスロイド実況】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668050/44668050.33221247" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">ニコニコの新基準デバイス規制に引っかかったので、ニコニコは修正版です。無修正はYouTubeでね♥1</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">15:14</strong>｜<strong class="nico-info-date">2025年02月19日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">6,514</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,115</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">697</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">25</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第52位：[ゆっくり実況]　あすとれあ　その2</title>
+        <title>第49位：[ゆっくり実況]　あすとれあ　その2</title>
         <link>https://www.nicovideo.jp/watch/sm44673035?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44673035</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="[ゆっくり実況]　あすとれあ　その2" src="https://nicovideo.cdn.nimg.jp/thumbnails/44673035/44673035.42529018" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">Astrea: Six-Sided Oraclesを遊びます。https://store.steam</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">15:01</strong>｜<strong class="nico-info-date">2025年02月20日 22：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,065</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">99</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">295</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">6</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">15:01</strong>｜<strong class="nico-info-date">2025年02月20日 22：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,218</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">102</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">306</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">7</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第50位：Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。 第6話「無色の闇」</title>
+        <link>https://www.nicovideo.jp/watch/so44647958?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/so44647958</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。 第6話「無色の闇」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44647958/44647958.45498948" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">国選依頼（ミッション）を引き受け、Cランクパーティながら「無色の闇」の調査を行うことになった「クロー</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">23:01</strong>｜<strong class="nico-info-date">2025年02月19日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">13,948</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,682</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">139</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">52</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第51位：【いのちごいとお書きください】ゾッとするyahoo知恵袋の怖い質問10選【ゆっくり解説】</title>
+        <link>https://www.nicovideo.jp/watch/sm44662800?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44662800</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【いのちごいとお書きください】ゾッとするyahoo知恵袋の怖い質問10選【ゆっくり解説】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44662800/44662800.49035415" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">マイリスト➡mylist/71081372検索してはいけない➡mylist/74352054お悩み相</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">27:28</strong>｜<strong class="nico-info-date">2025年02月19日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,405</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,129</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">408</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">16</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第52位：【ウーマンコミュニケーション】バカゲー探訪記 #40「スペルマスター葵」【ボイスロイド実況】</title>
+        <link>https://www.nicovideo.jp/watch/sm44668050?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44668050</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【ウーマンコミュニケーション】バカゲー探訪記 #40「スペルマスター葵」【ボイスロイド実況】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668050/44668050.33221247" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">ニコニコの新基準デバイス規制に引っかかったので、ニコニコは修正版です。無修正はYouTubeでね♥1</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">15:14</strong>｜<strong class="nico-info-date">2025年02月19日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">6,547</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,115</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">699</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">25</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第53位：ガバガバ翻訳で初代フォールアウト_Part12</title>
         <link>https://www.nicovideo.jp/watch/sm44659805?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44659805</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="ガバガバ翻訳で初代フォールアウト_Part12" src="https://nicovideo.cdn.nimg.jp/thumbnails/44659805/44659805.55836840" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">やっぱ…T-51くんの…パワーアーマーを…最高やな！Part1→sm44390850Part11→s</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">24:31</strong>｜<strong class="nico-info-date">2025年02月19日 20：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,317</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">759</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">626</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">28</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">24:31</strong>｜<strong class="nico-info-date">2025年02月19日 20：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,376</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">779</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">628</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">28</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第54位：メダリスト score06「初戦の夜」</title>
         <link>https://www.nicovideo.jp/watch/so44633343?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-14:/watch/so44633343</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="メダリスト score06「初戦の夜」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44633343/44633343.31971724" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">同世代ではトップクラスの光の演技を見て、少しでも早く近づきたい気持ちを募らせるいのり。司はバッジテス</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">23:00</strong>｜<strong class="nico-info-date">2025年02月14日 02：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">149,481</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">17,472</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,724</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">170</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">23:00</strong>｜<strong class="nico-info-date">2025年02月14日 02：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">149,544</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">17,478</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,724</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">169</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第55位：前ノハナシ(来都来了) - 重音テト, 初音ミク</title>
-        <link>https://www.nicovideo.jp/watch/sm44672250?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672250</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="前ノハナシ(来都来了) - 重音テト, 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672250/44672250.51600170" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">こんにちは。bilibili 前に進むハナシです。 ------------------------</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:36</strong>｜<strong class="nico-info-date">2025年02月20日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,233</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">126</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">347</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">117</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第56位：WhiteCULと女騎士クロワちゃんのシャドウゲイト #9</title>
+        <title>第55位：WhiteCULと女騎士クロワちゃんのシャドウゲイト #9</title>
         <link>https://www.nicovideo.jp/watch/sm44670650?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44670650</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="WhiteCULと女騎士クロワちゃんのシャドウゲイト #9" src="https://nicovideo.cdn.nimg.jp/thumbnails/44670650/44670650.27745499" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">WhiteCULと女騎士クロワちゃんにシャドウゲイトをプレイして貰った動画です。VOICEVOX:W</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">10:29</strong>｜<strong class="nico-info-date">2025年02月20日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,780</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">381</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">330</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">10:29</strong>｜<strong class="nico-info-date">2025年02月20日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,829</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">391</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">337</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第57位：最強のエース「ドラグーン・オブ・レッドアイズ」の力でマスター帯へ駆け上がる決闘者</title>
-        <link>https://www.nicovideo.jp/watch/sm44666835?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666835</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <title>第56位：前ノハナシ(来都来了) - 重音テト, 初音ミク</title>
+        <link>https://www.nicovideo.jp/watch/sm44672250?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672250</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="最強のエース「ドラグーン・オブ・レッドアイズ」の力でマスター帯へ駆け上がる決闘者" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666835/44666835.44397357" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">オレは「希望」を手にしたんだ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">13:57</strong>｜<strong class="nico-info-date">2025年02月19日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">15,379</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">430</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">471</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">11</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="前ノハナシ(来都来了) - 重音テト, 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672250/44672250.51600170" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">こんにちは。bilibili 前に進むハナシです。 ------------------------</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:36</strong>｜<strong class="nico-info-date">2025年02月20日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,333</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">126</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">350</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">118</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第58位：紲星あかりは慎めない【voiceroid劇場】</title>
+        <title>第57位：紲星あかりは慎めない【voiceroid劇場】</title>
         <link>https://www.nicovideo.jp/watch/sm44672794?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672794</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="紲星あかりは慎めない【voiceroid劇場】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672794/44672794.95242246" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">紲星あかり立ち絵　△○□×（みわしいば）様 https://seiga.nicovideo.jp/s</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:19</strong>｜<strong class="nico-info-date">2025年02月20日 18：45：06</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,809</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">184</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">319</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">33</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:19</strong>｜<strong class="nico-info-date">2025年02月20日 18：45：06</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,864</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">184</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">331</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">34</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第59位：神対応で枝豆を売る、東北ずん子【劇場動画】</title>
+        <title>第58位：神対応で枝豆を売る、東北ずん子【劇場動画】</title>
         <link>https://www.nicovideo.jp/watch/sm44671760?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44671760</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="神対応で枝豆を売る、東北ずん子【劇場動画】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44671760/44671760.87895376" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">お屋敷の管理も枝豆栽培も販売員もやっちゃう超人、ずん姉様..</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">1:36</strong>｜<strong class="nico-info-date">2025年02月20日 19：08：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,538</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">163</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">341</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">9</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:36</strong>｜<strong class="nico-info-date">2025年02月20日 19：08：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,574</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">167</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">348</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第60位：PlaZma　全てを奪われた男</title>
-        <link>https://www.nicovideo.jp/watch/sm44635881?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-11:/watch/sm44635881</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <title>第59位：最強のエース「ドラグーン・オブ・レッドアイズ」の力でマスター帯へ駆け上がる決闘者</title>
+        <link>https://www.nicovideo.jp/watch/sm44666835?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666835</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="PlaZma　全てを奪われた男" src="https://nicovideo.cdn.nimg.jp/thumbnails/44635881/44635881.44623224" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">ジェリドの良さが伝わって嬉しいあとゼータのコメント溢れてるの嬉しい次sm44644757https:</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:00</strong>｜<strong class="nico-info-date">2025年02月11日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">218,013</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,450</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,576</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">943</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="最強のエース「ドラグーン・オブ・レッドアイズ」の力でマスター帯へ駆け上がる決闘者" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666835/44666835.44397357" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">オレは「希望」を手にしたんだ</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">13:57</strong>｜<strong class="nico-info-date">2025年02月19日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">15,427</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">430</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">472</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">12</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第61位：先輩方が後輩になった後輩</title>
-        <link>https://www.nicovideo.jp/watch/sm44666578?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666578</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="先輩方が後輩になった後輩" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666578/44666578.54574012" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">東北姉妹&あんこもんVOICEVOX化おめでとうございます！(東北姉妹が無料で使えるなんで凄い時代に</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:30</strong>｜<strong class="nico-info-date">2025年02月19日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,081</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">330</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">861</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">42</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第62位：トップバリュの赤いやつ「脂肪をひかえたプロテインヨーグルト（258円）」</title>
+        <title>第60位：トップバリュの赤いやつ「脂肪をひかえたプロテインヨーグルト（258円）」</title>
         <link>https://www.nicovideo.jp/watch/sm44659221?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44659221</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="トップバリュの赤いやつ「脂肪をひかえたプロテインヨーグルト（258円）」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44659221/44659221.72404287" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">今回はリクエストをもらった、トップバリュのプロテインヨーグルトを紹介します。 低脂肪・高たんぱくとの</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:57</strong>｜<strong class="nico-info-date">2025年02月20日 17：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,603</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">396</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">284</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">5</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:57</strong>｜<strong class="nico-info-date">2025年02月20日 17：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,641</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">400</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">286</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">5</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第63位：PlaGma　師弟</title>
+        <title>第61位：PlaZma　全てを奪われた男</title>
+        <link>https://www.nicovideo.jp/watch/sm44635881?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-11:/watch/sm44635881</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="PlaZma　全てを奪われた男" src="https://nicovideo.cdn.nimg.jp/thumbnails/44635881/44635881.44623224" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">ジェリドの良さが伝わって嬉しいあとゼータのコメント溢れてるの嬉しい次sm44644757https:</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:00</strong>｜<strong class="nico-info-date">2025年02月11日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">218,133</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,451</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,576</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">943</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第62位：PlaGma　師弟</title>
         <link>https://www.nicovideo.jp/watch/sm44653013?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-15:/watch/sm44653013</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="PlaGma　師弟" src="https://nicovideo.cdn.nimg.jp/thumbnails/44653013/44653013.71913240" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">仲いいねキミたち音割：sm44613891AC6：sm44624776完璧：sm44670585シャ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:50</strong>｜<strong class="nico-info-date">2025年02月15日 17：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">72,878</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">760</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,316</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">283</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:50</strong>｜<strong class="nico-info-date">2025年02月15日 17：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">72,965</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">760</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,316</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">283</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第64位：読み負けても、ぶっとい択を1回だけ通せば勝てるからいいの【SF6】</title>
+        <title>第63位：読み負けても、ぶっとい択を1回だけ通せば勝てるからいいの【SF6】</title>
         <link>https://www.nicovideo.jp/watch/sm44652654?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44652654</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="読み負けても、ぶっとい択を1回だけ通せば勝てるからいいの【SF6】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44652654/44652654.23120043" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">sm44639301 ← 前｜次 →</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:00</strong>｜<strong class="nico-info-date">2025年02月20日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,526</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">76</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">275</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">4</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:00</strong>｜<strong class="nico-info-date">2025年02月20日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,573</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">78</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">278</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">4</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第65位：グリザイア：ファントムトリガー #08「有坂の手帳」</title>
-        <link>https://www.nicovideo.jp/watch/so44660306?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/so44660306</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <title>第64位：先輩方が後輩になった後輩</title>
+        <link>https://www.nicovideo.jp/watch/sm44666578?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666578</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="グリザイア：ファントムトリガー #08「有坂の手帳」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44660306/44660306.28482417" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">美浜学園A組に海外派遣の話が浮上し、担任の有坂は決断を迫られていた。有坂はレナたちと面談をして、彼女</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">24:53</strong>｜<strong class="nico-info-date">2025年02月20日 00：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,767</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">990</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">114</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">39</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="先輩方が後輩になった後輩" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666578/44666578.54574012" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">東北姉妹&あんこもんVOICEVOX化おめでとうございます！(東北姉妹が無料で使えるなんで凄い時代に</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:30</strong>｜<strong class="nico-info-date">2025年02月19日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,110</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">330</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">862</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">42</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第66位：テトリス / 重音テトSV</title>
+        <title>第65位：テトリス / 重音テトSV</title>
         <link>https://www.nicovideo.jp/watch/sm44301514?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2024-11-08:/watch/sm44301514</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="テトリス / 重音テトSV" src="https://nicovideo.cdn.nimg.jp/thumbnails/44301514/44301514.55424729" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">どうしてこんな目に。柊マグネタイトと申します。作詞作編曲MIX&Mastering映像 / 柊マグネ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:22</strong>｜<strong class="nico-info-date">2024年11月08日 22：10：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,536,710</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,565</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">25,378</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">12,656</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:22</strong>｜<strong class="nico-info-date">2024年11月08日 22：10：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,536,939</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,566</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">25,378</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">12,657</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第66位：グリザイア：ファントムトリガー #08「有坂の手帳」</title>
+        <link>https://www.nicovideo.jp/watch/so44660306?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/so44660306</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="グリザイア：ファントムトリガー #08「有坂の手帳」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44660306/44660306.28482417" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">美浜学園A組に海外派遣の話が浮上し、担任の有坂は決断を迫られていた。有坂はレナたちと面談をして、彼女</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">24:53</strong>｜<strong class="nico-info-date">2025年02月20日 00：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,845</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">990</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">117</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">39</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第67位：ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います #6「白銀の後衛役（バックアタッカー）ですが、デマ野郎を取っ捕まえようと思います」</title>
         <link>https://www.nicovideo.jp/watch/so44644160?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-18:/watch/so44644160</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います #6「白銀の後衛役（バックアタッカー）ですが、デマ野郎を取っ捕まえようと思います」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44644160/44644160.21467041" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">「〈神域(ディア)スキル〉が手に入る遺物(レリック)がある」そんなデマがまことしやかに広まり、冒険者</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">24:00</strong>｜<strong class="nico-info-date">2025年02月18日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">52,390</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">7,075</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">731</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">124</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">24:00</strong>｜<strong class="nico-info-date">2025年02月18日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">52,495</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">7,080</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">731</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">124</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第68位：【Elin】つくえりんちゃん 04</title>
         <link>https://www.nicovideo.jp/watch/sm44668566?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44668566</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【Elin】つくえりんちゃん 04" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668566/44668566.39529327" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">コーラルウッドくんの見た目こわすぎんよ～エレア／ピアニスト・ＭＯＤあり・ファストトラベル禁止動画の最</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">9:03</strong>｜<strong class="nico-info-date">2025年02月19日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,329</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">397</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">609</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">18</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">9:03</strong>｜<strong class="nico-info-date">2025年02月19日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,365</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">397</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">612</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">18</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第69位：#11【信長の野望・天下創世WPK】真田家が天下創世で上田城に引き籠ってみた【ゆっくり実況プレイ】</title>
-        <link>https://www.nicovideo.jp/watch/sm44668995?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44668995</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="#11【信長の野望・天下創世WPK】真田家が天下創世で上田城に引き籠ってみた【ゆっくり実況プレイ】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668995/44668995.81101226" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">次：パート12➡ 編集中前：パート10➡ sm44661866最初：パート01➡sm44599045</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">20:00</strong>｜<strong class="nico-info-date">2025年02月19日 22：25：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,880</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">297</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">343</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">17</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第70位：AIに作らせたポケモントレーナーのクソBB素材詰め合わせ</title>
+        <title>第69位：AIに作らせたポケモントレーナーのクソBB素材詰め合わせ</title>
         <link>https://www.nicovideo.jp/watch/sm44655626?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-16:/watch/sm44655626</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="AIに作らせたポケモントレーナーのクソBB素材詰め合わせ" src="https://nicovideo.cdn.nimg.jp/thumbnails/44655626/44655626.96867023" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">これいる？</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">1:22</strong>｜<strong class="nico-info-date">2025年02月16日 08：10：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">39,277</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">384</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">664</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">93</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:22</strong>｜<strong class="nico-info-date">2025年02月16日 08：10：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">39,409</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">384</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">666</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">93</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第71位：薬屋のひとりごと 第2期 第30話「みたび、水晶宮」</title>
-        <link>https://www.nicovideo.jp/watch/so44641389?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-15:/watch/so44641389</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="薬屋のひとりごと 第2期 第30話「みたび、水晶宮」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44641389/44641389.34664274" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">医官ではない猫猫が薬を作っていたことが、診療所の女官・深緑にバレてしまった。お咎めはなかったものの彼</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">24:00</strong>｜<strong class="nico-info-date">2025年02月15日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">117,727</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">11,289</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,833</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">170</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第72位：盗んだ能力を発動してKMRを一方的にレ○プするクロロ=ルシルフル先輩</title>
-        <link>https://www.nicovideo.jp/watch/sm44667922?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44667922</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="盗んだ能力を発動してKMRを一方的にレ○プするクロロ=ルシルフル先輩" src="https://nicovideo.cdn.nimg.jp/thumbnails/44667922/44667922.22159985" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">気をつけろ親父奴は他人の｢動き｣を盗む【前回のモーニングスター】sm44661521【次回のネッ強弁</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">1:06</strong>｜<strong class="nico-info-date">2025年02月19日 17：24：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">16,993</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">198</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">471</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">18</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第73位：3分で分かる新作発売と50％オフで買える女</title>
-        <link>https://www.nicovideo.jp/watch/sm44672386?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672386</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="3分で分かる新作発売と50％オフで買える女" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672386/44672386.17612347" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">メメリスちゃんRPGがDLサイトにて発売開始しました！何卒購入してプレイしていただけると嬉しいです！</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:15</strong>｜<strong class="nico-info-date">2025年02月20日 17：02：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,068</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">71</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">189</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">7</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第74位：新・桃太郎伝説　RTA　6時間34分00秒　part 7/14</title>
-        <link>https://www.nicovideo.jp/watch/sm44655852?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-18:/watch/sm44655852</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="新・桃太郎伝説　RTA　6時間34分00秒　part 7/14" src="https://nicovideo.cdn.nimg.jp/thumbnails/44655852/44655852.93384055" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">part6　sm44614238part8　後日</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">29:53</strong>｜<strong class="nico-info-date">2025年02月18日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">33,825</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,691</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,856</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">86</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第75位：DQ3HD-2DRTA まものよび不採用チャート 3:06:55 part4</title>
+        <title>第70位：DQ3HD-2DRTA まものよび不採用チャート 3:06:55 part4</title>
         <link>https://www.nicovideo.jp/watch/sm44662464?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44662464</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="DQ3HD-2DRTA まものよび不採用チャート 3:06:55 part4" src="https://nicovideo.cdn.nimg.jp/thumbnails/44662464/44662464.20427790" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">勇者最強！勇者最強！YouTube：https://www.youtube.com/@Eru1203</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">28:40</strong>｜<strong class="nico-info-date">2025年02月20日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,056</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">535</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">286</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">28:40</strong>｜<strong class="nico-info-date">2025年02月20日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,154</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">541</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">291</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第76位：PlaZma　ジャイアントデカクリコン</title>
-        <link>https://www.nicovideo.jp/watch/sm44655491?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-16:/watch/sm44655491</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <title>第71位：メダリスト score07「1級バッジテスト」</title>
+        <link>https://www.nicovideo.jp/watch/so44663664?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-21:/watch/so44663664</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="PlaZma　ジャイアントデカクリコン" src="https://nicovideo.cdn.nimg.jp/thumbnails/44655491/44655491.82374276" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">なんだよこれhttps://bbs.animanch.com/board/4504808/</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">0:57</strong>｜<strong class="nico-info-date">2025年02月16日 04：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">57,668</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">524</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,490</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">114</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="メダリスト score07「1級バッジテスト」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44663664/44663664.64399676" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">西日本小中学生大会での優勝を、次の目標に定めたいのりと司。そこで高得点を得るには、2回転ジャンプの成</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">23:00</strong>｜<strong class="nico-info-date">2025年02月21日 02：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">6,134</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,587</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">192</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">32</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第72位：3分で分かる新作発売と50％オフで買える女</title>
+        <link>https://www.nicovideo.jp/watch/sm44672386?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672386</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="3分で分かる新作発売と50％オフで買える女" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672386/44672386.17612347" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">メメリスちゃんRPGがDLサイトにて発売開始しました！何卒購入してプレイしていただけると嬉しいです！</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:15</strong>｜<strong class="nico-info-date">2025年02月20日 17：02：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,137</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">72</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">190</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">7</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第73位：#11【信長の野望・天下創世WPK】真田家が天下創世で上田城に引き籠ってみた【ゆっくり実況プレイ】</title>
+        <link>https://www.nicovideo.jp/watch/sm44668995?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44668995</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="#11【信長の野望・天下創世WPK】真田家が天下創世で上田城に引き籠ってみた【ゆっくり実況プレイ】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668995/44668995.81101226" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">次：パート12➡ 編集中前：パート10➡ sm44661866最初：パート01➡sm44599045</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">20:00</strong>｜<strong class="nico-info-date">2025年02月19日 22：25：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,903</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">298</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">346</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">17</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第74位：薬屋のひとりごと 第2期 第30話「みたび、水晶宮」</title>
+        <link>https://www.nicovideo.jp/watch/so44641389?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-15:/watch/so44641389</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="薬屋のひとりごと 第2期 第30話「みたび、水晶宮」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44641389/44641389.34664274" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">医官ではない猫猫が薬を作っていたことが、診療所の女官・深緑にバレてしまった。お咎めはなかったものの彼</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">24:00</strong>｜<strong class="nico-info-date">2025年02月15日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">117,863</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">11,307</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,835</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">170</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第75位：新・桃太郎伝説　RTA　6時間34分00秒　part 7/14</title>
+        <link>https://www.nicovideo.jp/watch/sm44655852?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-18:/watch/sm44655852</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="新・桃太郎伝説　RTA　6時間34分00秒　part 7/14" src="https://nicovideo.cdn.nimg.jp/thumbnails/44655852/44655852.93384055" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">part6　sm44614238part8　後日</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">29:53</strong>｜<strong class="nico-info-date">2025年02月18日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">33,965</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,693</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,859</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">86</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第76位：盗んだ能力を発動してKMRを一方的にレ○プするクロロ=ルシルフル先輩</title>
+        <link>https://www.nicovideo.jp/watch/sm44667922?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44667922</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="盗んだ能力を発動してKMRを一方的にレ○プするクロロ=ルシルフル先輩" src="https://nicovideo.cdn.nimg.jp/thumbnails/44667922/44667922.22159985" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">気をつけろ親父奴は他人の｢動き｣を盗む【前回のモーニングスター】sm44661521【次回のネッ強弁</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:06</strong>｜<strong class="nico-info-date">2025年02月19日 17：24：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">17,080</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">198</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">473</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">18</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第77位：【Super Bunny Man】うさぎのおバカゲーに挑む茜ちゃん #3【VOICEROID実況】</title>
         <link>https://www.nicovideo.jp/watch/sm44668667?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44668667</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【Super Bunny Man】うさぎのおバカゲーに挑む茜ちゃん #3【VOICEROID実況】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668667/44668667.79413086" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">Super Bunny Manを遊びます。</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:20</strong>｜<strong class="nico-info-date">2025年02月20日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,410</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">121</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">283</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">8</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:20</strong>｜<strong class="nico-info-date">2025年02月20日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,443</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">122</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">288</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">8</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第78位：ニートくノ一となぜか同棲はじめました #07「なぜかデートに行くために四苦八苦しました」</title>
-        <link>https://www.nicovideo.jp/watch/so44648265?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/so44648265</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="ニートくノ一となぜか同棲はじめました #07「なぜかデートに行くために四苦八苦しました」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44648265/44648265.15318999" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">PCの調子が悪くなってしまったため買い換えたいという政は、しづりに秋葉原へ買い物につきあってほしいと</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">12:00</strong>｜<strong class="nico-info-date">2025年02月19日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">26,794</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,780</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">385</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">92</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第79位：戦隊レッド 異世界で冒険者になる 第05話「戦隊レッドと魔王の血族」</title>
+        <title>第78位：戦隊レッド 異世界で冒険者になる 第05話「戦隊レッドと魔王の血族」</title>
         <link>https://www.nicovideo.jp/watch/so44618480?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-15:/watch/so44618480</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="戦隊レッド 異世界で冒険者になる 第05話「戦隊レッドと魔王の血族」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44618480/44618480.81557159" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">《魔力の種》が暴走し巨大化したルルグアット。灯悟たちは《マキシマム・キズナカイザー》を爆現させ、敵と</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2025年02月15日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">111,194</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">12,151</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,063</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">163</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2025年02月15日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">111,311</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">12,220</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,066</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">163</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第80位：◆都市伝説解体センター　実況プレイ◆part2</title>
-        <link>https://www.nicovideo.jp/watch/sm44663866?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-18:/watch/sm44663866</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <title>第79位：PlaZma　ジャイアントデカクリコン</title>
+        <link>https://www.nicovideo.jp/watch/sm44655491?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-16:/watch/sm44655491</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="◆都市伝説解体センター　実況プレイ◆part2" src="https://nicovideo.cdn.nimg.jp/thumbnails/44663866/44663866.37152" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">▽【ネタバレ注意！】 『都市伝説解体センター』の実況プレイです（Switch版を使用）小さいおじさん</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">28:51</strong>｜<strong class="nico-info-date">2025年02月18日 19：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">19,091</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,935</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,729</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">31</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="PlaZma　ジャイアントデカクリコン" src="https://nicovideo.cdn.nimg.jp/thumbnails/44655491/44655491.82374276" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">なんだよこれhttps://bbs.animanch.com/board/4504808/</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">0:57</strong>｜<strong class="nico-info-date">2025年02月16日 04：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">57,716</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">524</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,491</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">114</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第80位：ニートくノ一となぜか同棲はじめました #07「なぜかデートに行くために四苦八苦しました」</title>
+        <link>https://www.nicovideo.jp/watch/so44648265?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/so44648265</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ニートくノ一となぜか同棲はじめました #07「なぜかデートに行くために四苦八苦しました」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44648265/44648265.15318999" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">PCの調子が悪くなってしまったため買い換えたいという政は、しづりに秋葉原へ買い物につきあってほしいと</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">12:00</strong>｜<strong class="nico-info-date">2025年02月19日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">26,848</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,780</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">385</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">92</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第81位：「赤いきつねのCMが炎上!?」→売り切れ続出＆フォロワー爆増で大成功したと話題にwww</title>
         <link>https://www.nicovideo.jp/watch/sm44670675?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44670675</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="「赤いきつねのCMが炎上!?」→売り切れ続出＆フォロワー爆増で大成功したと話題にwww" src="https://nicovideo.cdn.nimg.jp/thumbnails/44670675/44670675.4345278" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">【赤いきつねのアフィリ】https://amzn.to/4hFBlwd 【引用元】https://x</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">6:00</strong>｜<strong class="nico-info-date">2025年02月20日 12：30：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,255</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">317</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">185</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">6</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">6:00</strong>｜<strong class="nico-info-date">2025年02月20日 12：30：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,290</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">321</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">185</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">6</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第82位：【Necesse】ねせすせそらりり#4</title>
         <link>https://www.nicovideo.jp/watch/sm44668610?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44668610</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【Necesse】ねせすせそらりり#4" src="https://nicovideo.cdn.nimg.jp/thumbnails/44668610/44668610.64776898" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">Necesseまたやります</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">7:50</strong>｜<strong class="nico-info-date">2025年02月20日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,101</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">82</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">252</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">8</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">7:50</strong>｜<strong class="nico-info-date">2025年02月20日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,136</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">83</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">258</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">8</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第83位：Plazmaって自由ですか？</title>
+        <title>第83位：◆都市伝説解体センター　実況プレイ◆part2</title>
+        <link>https://www.nicovideo.jp/watch/sm44663866?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-18:/watch/sm44663866</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="◆都市伝説解体センター　実況プレイ◆part2" src="https://nicovideo.cdn.nimg.jp/thumbnails/44663866/44663866.37152" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">▽【ネタバレ注意！】 『都市伝説解体センター』の実況プレイです（Switch版を使用）小さいおじさん</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">28:51</strong>｜<strong class="nico-info-date">2025年02月18日 19：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">19,127</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,936</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,730</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">31</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第84位：Plazmaって自由ですか？</title>
         <link>https://www.nicovideo.jp/watch/sm44624598?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-08:/watch/sm44624598</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="Plazmaって自由ですか？" src="https://nicovideo.cdn.nimg.jp/thumbnails/44624598/44624598.35603624" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ゲッターって究極ですか？</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">0:36</strong>｜<strong class="nico-info-date">2025年02月08日 01：45：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">25,716</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">85</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">797</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">77</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">0:36</strong>｜<strong class="nico-info-date">2025年02月08日 01：45：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">25,768</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">85</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">797</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">77</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第84位：PlaZma</title>
+        <title>第85位：PlaZma</title>
         <link>https://www.nicovideo.jp/watch/sm44569081?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-01-23:/watch/sm44569081</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="PlaZma" src="https://nicovideo.cdn.nimg.jp/thumbnails/44569081/44569081.94540670" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">やっつけ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">0:45</strong>｜<strong class="nico-info-date">2025年01月23日 07：33：02</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">554,901</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,228</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">7,126</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">998</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第85位：全修。 第7話「初恋。」</title>
-        <link>https://www.nicovideo.jp/watch/so44640694?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-17:/watch/so44640694</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="全修。 第7話「初恋。」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44640694/44640694.92808921" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">映画「滅びゆく物語」に心動かされた小学生のナツ子を見つめるクラスメイトのミドリちゃん。動いているもの</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">23:55</strong>｜<strong class="nico-info-date">2025年02月17日 23：45：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">43,214</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8,736</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">841</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">104</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">0:45</strong>｜<strong class="nico-info-date">2025年01月23日 07：33：02</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">554,975</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,228</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">7,126</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">998</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第86位：◆都市伝説解体センター　実況プレイ◆part1</title>
         <link>https://www.nicovideo.jp/watch/sm44652637?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-17:/watch/sm44652637</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="◆都市伝説解体センター　実況プレイ◆part1" src="https://nicovideo.cdn.nimg.jp/thumbnails/44652637/44652637.52583196" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">▽【ネタバレ注意！】 『都市伝説解体センター』の実況プレイです（Switch版を使用）次から次へと溢</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">29:17</strong>｜<strong class="nico-info-date">2025年02月17日 19：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">41,293</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">3,008</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,387</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">128</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">29:17</strong>｜<strong class="nico-info-date">2025年02月17日 19：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">41,350</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">3,008</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,387</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">128</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第87位：フジターコトネー</title>
+        <title>第87位：全修。 第7話「初恋。」</title>
+        <link>https://www.nicovideo.jp/watch/so44640694?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-17:/watch/so44640694</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="全修。 第7話「初恋。」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44640694/44640694.92808921" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">映画「滅びゆく物語」に心動かされた小学生のナツ子を見つめるクラスメイトのミドリちゃん。動いているもの</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">23:55</strong>｜<strong class="nico-info-date">2025年02月17日 23：45：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">43,303</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8,798</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">845</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">103</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第88位：フジターコトネー</title>
         <link>https://www.nicovideo.jp/watch/sm44654868?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-16:/watch/sm44654868</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="フジターコトネー" src="https://nicovideo.cdn.nimg.jp/thumbnails/44654868/44654868.27995571" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">sm43989239ことね♪   ことね♪   藤田ことね♪</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">1:38</strong>｜<strong class="nico-info-date">2025年02月16日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">37,160</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">200</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,815</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">535</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第88位：【宮舞モカ&amp;弦巻マキ】粉雪 / レミオロメン【SynthesizerVカバー】</title>
-        <link>https://www.nicovideo.jp/watch/sm44666259?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666259</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【宮舞モカ&amp;弦巻マキ】粉雪 / レミオロメン【SynthesizerVカバー】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666259/44666259.65552398" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">☆こなﾞあﾞ～ゆきぃ～☆ねﾞえﾞえﾞえﾞえﾞえﾞ☆☆心は☆You　Best☆いいね、コメントしてくれ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">5:23</strong>｜<strong class="nico-info-date">2025年02月19日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,717</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">173</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">275</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">59</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:38</strong>｜<strong class="nico-info-date">2025年02月16日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">37,205</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">200</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,817</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">535</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第89位：Bloodborne 最低レベル 武器未強化 全ボス撃破 Speedrun - 2:21:45 Part 1</title>
         <link>https://www.nicovideo.jp/watch/sm44660659?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-18:/watch/sm44660659</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="Bloodborne 最低レベル 武器未強化 全ボス撃破 Speedrun - 2:21:45 Part 1" src="https://nicovideo.cdn.nimg.jp/thumbnails/44660659/44660659.87031165" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ネタ要素はありません。ブラッドボーンの全ボスをBL4（レベル4）未強化武器、バグ有りで撃破します。R</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">22:31</strong>｜<strong class="nico-info-date">2025年02月18日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,713</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">353</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">336</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">39</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">22:31</strong>｜<strong class="nico-info-date">2025年02月18日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,774</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">353</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">337</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">40</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第90位：【CIV7】さっそくアウグストゥスになってしまうセイカさん#03【ローマ古代編3】</title>
-        <link>https://www.nicovideo.jp/watch/sm44667371?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44667371</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <title>第90位：【宮舞モカ&amp;弦巻マキ】粉雪 / レミオロメン【SynthesizerVカバー】</title>
+        <link>https://www.nicovideo.jp/watch/sm44666259?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666259</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【CIV7】さっそくアウグストゥスになってしまうセイカさん#03【ローマ古代編3】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44667371/44667371.53129961" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">居住地、都市、町、市街、区域、街区、郊外流石に新単語が多すぎる市街と区域と街区はそもそものシステムと</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">19:59</strong>｜<strong class="nico-info-date">2025年02月19日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,661</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">280</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">400</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="【宮舞モカ&amp;弦巻マキ】粉雪 / レミオロメン【SynthesizerVカバー】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666259/44666259.65552398" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">☆こなﾞあﾞ～ゆきぃ～☆ねﾞえﾞえﾞえﾞえﾞえﾞ☆☆心は☆You　Best☆いいね、コメントしてくれ</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">5:23</strong>｜<strong class="nico-info-date">2025年02月19日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,743</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">173</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">275</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">59</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第91位：ゆかりさんの第１０世界サバイバル　その16【Valheim】</title>
-        <link>https://www.nicovideo.jp/watch/sm44669281?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44669281</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="ゆかりさんの第１０世界サバイバル　その16【Valheim】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44669281/44669281.48750181" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">Valheimを楽しくプレイしていきます。使用させて頂いているイラスト夏樹テル 様［だぼだぼゆかりさ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">6:35</strong>｜<strong class="nico-info-date">2025年02月19日 23：21：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,055</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">132</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">304</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">12</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第92位：【kenshi】過酷な世界で泣く雪ちゃん♯１1【ボイスロイド実況プレイ】</title>
-        <link>https://www.nicovideo.jp/watch/sm44659733?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44659733</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【kenshi】過酷な世界で泣く雪ちゃん♯１1【ボイスロイド実況プレイ】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44659733/44659733.10727360" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">サムネイル元ネタ『テトリス』柊マグネタイト様Blueskyhttps://bsky.app/prof</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">8:35</strong>｜<strong class="nico-info-date">2025年02月19日 19：05：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,155</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">384</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">448</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">16</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第93位：【スマブラSP】負けたらその時の〇〇％と同じ値の「JAL○○便」に乗せられて実際にふっとばされる対決 #1</title>
-        <link>https://www.nicovideo.jp/watch/sm44660624?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44660624</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【スマブラSP】負けたらその時の〇〇％と同じ値の「JAL○○便」に乗せられて実際にふっとばされる対決 #1" src="https://nicovideo.cdn.nimg.jp/thumbnails/44660624/44660624.55405940" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">キャラがふっとんでるんだから操作してるやつも責任とってふっとぼうぜ～細かいルール～・負けたら自費でそ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">11:40</strong>｜<strong class="nico-info-date">2025年02月19日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">6,144</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">575</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">510</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">26</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第94位：【一口雑学】もっと！イタコぶくろ45【飲酒量】</title>
-        <link>https://www.nicovideo.jp/watch/sm44673153?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44673153</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【一口雑学】もっと！イタコぶくろ45【飲酒量】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44673153/44673153.37395821" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">飲酒量の知識をもっと授けるイタコぶくろ45酒豪の道は険しい</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">0:45</strong>｜<strong class="nico-info-date">2025年02月20日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">723</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">58</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">220</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">5</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第95位：第29回ホロAmongus 各視点まとめ (全8試合)</title>
-        <link>https://www.nicovideo.jp/watch/sm44666682?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44666682</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="第29回ホロAmongus 各視点まとめ (全8試合)" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666682/44666682.79034007" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">すうちゃんがみこちポジになりつつある#00:00 1試合目　莉々華・ヴィヴィ#03:29 2試合目　</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">71:24</strong>｜<strong class="nico-info-date">2025年02月19日 12：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,281</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,488</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">288</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">44</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第96位：Re:ゼロから始める異世界生活　3rd season 第60話「強欲攻略戦」</title>
-        <link>https://www.nicovideo.jp/watch/so44640663?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-15:/watch/so44640663</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="Re:ゼロから始める異世界生活　3rd season 第60話「強欲攻略戦」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44640663/44640663.71983578" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">アナスタシアたちが残る都市庁舎に姿を現したのは色欲の大罪司教カペラだった。龍の血に苦しむクルシュをど</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2025年02月15日 23：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">88,370</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6,110</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,253</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">113</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第97位：弁護士バッジを身に付けたままホモビに出演する野獣先輩</title>
+        <title>第91位：弁護士バッジを身に付けたままホモビに出演する野獣先輩</title>
         <link>https://www.nicovideo.jp/watch/sm44673345?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44673345</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="弁護士バッジを身に付けたままホモビに出演する野獣先輩" src="https://nicovideo.cdn.nimg.jp/thumbnails/44673345/44673345.76291989" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">当職は弁護士だ、お前らとは違う【前回のハンターハンター】sm44667922</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">0:47</strong>｜<strong class="nico-info-date">2025年02月20日 20：42：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,674</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">126</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">192</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">0:47</strong>｜<strong class="nico-info-date">2025年02月20日 20：42：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,946</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">128</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">199</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">4</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第98位：イタコ姉様に「あなた」って呼ばれてぇよなぁ！</title>
-        <link>https://www.nicovideo.jp/watch/sm44670586?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44670586</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <title>第92位：【CIV7】さっそくアウグストゥスになってしまうセイカさん#03【ローマ古代編3】</title>
+        <link>https://www.nicovideo.jp/watch/sm44667371?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44667371</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="イタコ姉様に「あなた」って呼ばれてぇよなぁ！" src="https://nicovideo.cdn.nimg.jp/thumbnails/44670586/44670586.18638817" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">という妄想から生れたなんか</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">0:18</strong>｜<strong class="nico-info-date">2025年02月20日 11：34：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,052</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">34</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">196</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">9</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="【CIV7】さっそくアウグストゥスになってしまうセイカさん#03【ローマ古代編3】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44667371/44667371.53129961" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">居住地、都市、町、市街、区域、街区、郊外流石に新単語が多すぎる市街と区域と街区はそもそものシステムと</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">19:59</strong>｜<strong class="nico-info-date">2025年02月19日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,698</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">281</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">402</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第99位：【セイカの麺Life! #58】麺処 匠【ドイツで人気のアツアツ札幌みそ！】</title>
+        <title>第93位：【一口雑学】もっと！イタコぶくろ45【飲酒量】</title>
+        <link>https://www.nicovideo.jp/watch/sm44673153?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44673153</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【一口雑学】もっと！イタコぶくろ45【飲酒量】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44673153/44673153.37395821" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">飲酒量の知識をもっと授けるイタコぶくろ45酒豪の道は険しい</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">0:45</strong>｜<strong class="nico-info-date">2025年02月20日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">743</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">59</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">222</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">5</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第94位：Re:ゼロから始める異世界生活　3rd season 第60話「強欲攻略戦」</title>
+        <link>https://www.nicovideo.jp/watch/so44640663?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-15:/watch/so44640663</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="Re:ゼロから始める異世界生活　3rd season 第60話「強欲攻略戦」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44640663/44640663.71983578" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">アナスタシアたちが残る都市庁舎に姿を現したのは色欲の大罪司教カペラだった。龍の血に苦しむクルシュをど</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2025年02月15日 23：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">88,460</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6,110</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,254</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">113</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第95位：ゆかりさんの第１０世界サバイバル　その16【Valheim】</title>
+        <link>https://www.nicovideo.jp/watch/sm44669281?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44669281</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ゆかりさんの第１０世界サバイバル　その16【Valheim】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44669281/44669281.48750181" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">Valheimを楽しくプレイしていきます。使用させて頂いているイラスト夏樹テル 様［だぼだぼゆかりさ</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">6:35</strong>｜<strong class="nico-info-date">2025年02月19日 23：21：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,078</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">132</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">305</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">12</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第96位：【セイカの麺Life! #58】麺処 匠【ドイツで人気のアツアツ札幌みそ！】</title>
         <link>https://www.nicovideo.jp/watch/sm44666216?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44666216</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【セイカの麺Life! #58】麺処 匠【ドイツで人気のアツアツ札幌みそ！】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44666216/44666216.38621828" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ルール工業地帯を擁する州の都、ドイツ・デュッセルドルフ。欧州最大の日本人街で生まれた人気店が「麺処 </p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:29</strong>｜<strong class="nico-info-date">2025年02月20日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">876</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">134</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">197</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">5</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:29</strong>｜<strong class="nico-info-date">2025年02月20日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">892</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">135</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">201</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">5</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第97位：イタコ姉様に「あなた」って呼ばれてぇよなぁ！</title>
+        <link>https://www.nicovideo.jp/watch/sm44670586?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44670586</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="イタコ姉様に「あなた」って呼ばれてぇよなぁ！" src="https://nicovideo.cdn.nimg.jp/thumbnails/44670586/44670586.18638817" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">という妄想から生れたなんか</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">0:18</strong>｜<strong class="nico-info-date">2025年02月20日 11：34：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,066</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">34</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">197</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">9</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第98位：デイジー・ベル【ナースロボType_T】【デイジークレイジー挿入歌】</title>
+        <link>https://www.nicovideo.jp/watch/sm44672890?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/sm44672890</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="デイジー・ベル【ナースロボType_T】【デイジークレイジー挿入歌】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44672890/44672890.29874881" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">【デイジー・ベル　　：ハリー・ダグレ作曲】以前投稿した短編ボイロ劇場"デイジー・クレイジー"の中でT</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:50</strong>｜<strong class="nico-info-date">2025年02月20日 19：04：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,103</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">50</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">206</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">18</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第99位：【kenshi】過酷な世界で泣く雪ちゃん♯１1【ボイスロイド実況プレイ】</title>
+        <link>https://www.nicovideo.jp/watch/sm44659733?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44659733</guid>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【kenshi】過酷な世界で泣く雪ちゃん♯１1【ボイスロイド実況プレイ】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44659733/44659733.10727360" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">サムネイル元ネタ『テトリス』柊マグネタイト様Blueskyhttps://bsky.app/prof</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">8:35</strong>｜<strong class="nico-info-date">2025年02月19日 19：05：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,187</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">384</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">448</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">16</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第100位：RINGING FATE 第7話「隼風 、覚悟！」</title>
         <link>https://www.nicovideo.jp/watch/so44660858?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-20:/watch/so44660858</guid>
-        <pubDate>Fri, 21 Feb 2025 04:58:21 +0900</pubDate>
+        <pubDate>Fri, 21 Feb 2025 05:58:21 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="RINGING FATE 第7話「隼風 、覚悟！」" src="https://nicovideo.cdn.nimg.jp/thumbnails/44660858/44660858.98907767" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">隼風は突然エデンこそ自分が数年にわたって探していた仇であると言い、決闘しようとする。とっさにエデンを</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2025年02月20日 12：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">11,095</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">636</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">86</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">29</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2025年02月20日 12：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">11,198</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">640</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">88</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">30</strong></small></p>
                     ]]></description>
       </item>
       
