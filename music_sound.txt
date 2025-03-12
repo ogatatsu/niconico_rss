@@ -5,8 +5,8 @@
       <title>音楽・サウンドの動画ランキング(24時間) - ニコニコ動画</title>
       <link>http://www.nicovideo.jp/ranking/genre/music_sound</link>
       <description>毎時更新</description>
-      <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-      <lastBuildDate>Thu, 13 Mar 2025 05:00:07 +0900</lastBuildDate>
+      <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+      <lastBuildDate>Thu, 13 Mar 2025 06:00:07 +0900</lastBuildDate>
       <generator>ニコニコ動画</generator>
       <language>ja-jp</language>
       <copyright>(c) DWANGO Co., Ltd.</copyright>
@@ -19,1100 +19,1100 @@
         <title>第1位：雑魚 / 亞北ネル</title>
         <link>https://www.nicovideo.jp/watch/sm44747244?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/sm44747244</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="雑魚 / 亞北ネル" src="https://nicovideo.cdn.nimg.jp/thumbnails/44747244/44747244.75217431" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">取るに足らない存在です。柊マグネタイトと申します。作詞作編曲MIX&Mastering / 柊マグネ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:27</strong>｜<strong class="nico-info-date">2025年03月10日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">94,840</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,964</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">5,287</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,290</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:27</strong>｜<strong class="nico-info-date">2025年03月10日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">95,236</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,964</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">5,295</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,292</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第2位：カラフル / 宮舞モカ</title>
         <link>https://www.nicovideo.jp/watch/sm44753979?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-12:/watch/sm44753979</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="カラフル / 宮舞モカ" src="https://nicovideo.cdn.nimg.jp/thumbnails/44753979/44753979.45505446" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">「あなたと過ごした日々で紡いでく」柊マグネタイトと申します。作詞作編曲MIX&Mastering /</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:22</strong>｜<strong class="nico-info-date">2025年03月12日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,566</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">309</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">559</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">183</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:22</strong>｜<strong class="nico-info-date">2025年03月12日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,716</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">311</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">568</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">188</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第3位：【GUNDAM×MIKU】アイドル戦士(feat. 初音ミク）/Mitchie M</title>
         <link>https://www.nicovideo.jp/watch/so44750083?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-11:/watch/so44750083</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【GUNDAM×MIKU】アイドル戦士(feat. 初音ミク）/Mitchie M" src="https://nicovideo.cdn.nimg.jp/thumbnails/44750083/44750083.44924826" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">Title:アイドル戦士(feat. 初音ミク）ーーーーAboutーーーーーガンダムシリーズは45周</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:04</strong>｜<strong class="nico-info-date">2025年03月11日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,636</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">445</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">723</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">229</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:04</strong>｜<strong class="nico-info-date">2025年03月11日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,674</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">451</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">723</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">232</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第4位：雑魚・きえろ・シャラップ・ホバーシャラップ・ランランルー・ホバーランランルー・ばか・あほ・くそ・まぬけ・うそつき・うるせぇ・あっちいけ・くず・きもちわるい・だまれ・いっしょに遊びたくない・じゃま・ざ</title>
         <link>https://www.nicovideo.jp/watch/sm44751214?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-11:/watch/sm44751214</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="雑魚・きえろ・シャラップ・ホバーシャラップ・ランランルー・ホバーランランルー・ばか・あほ・くそ・まぬけ・うそつき・うるせぇ・あっちいけ・くず・きもちわるい・だまれ・いっしょに遊びたくない・じゃま・ざ" src="https://nicovideo.cdn.nimg.jp/thumbnails/44751214/44751214.60160266" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">雑魚</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">0:56</strong>｜<strong class="nico-info-date">2025年03月11日 21：46：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,604</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">127</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">394</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">46</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">0:56</strong>｜<strong class="nico-info-date">2025年03月11日 21：46：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,648</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">127</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">394</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">47</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第5位：テトリス / 重音テトSV</title>
         <link>https://www.nicovideo.jp/watch/sm44301514?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2024-11-08:/watch/sm44301514</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="テトリス / 重音テトSV" src="https://nicovideo.cdn.nimg.jp/thumbnails/44301514/44301514.55424729" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">どうしてこんな目に。柊マグネタイトと申します。作詞作編曲MIX&Mastering映像 / 柊マグネ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:22</strong>｜<strong class="nico-info-date">2024年11月08日 22：10：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,796,920</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6,238</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">27,160</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">13,423</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:22</strong>｜<strong class="nico-info-date">2024年11月08日 22：10：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,797,098</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6,238</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">27,161</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">13,423</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第6位：DECO*27 - テレパシ feat. 初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm44661043?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-21:/watch/sm44661043</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="DECO*27 - テレパシ feat. 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44661043/44661043.41405619" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">「あいうぉんちゅーコールが聞こえなーい」Listen & Download: https://kar</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:24</strong>｜<strong class="nico-info-date">2025年02月21日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">353,969</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,757</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">7,699</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3,218</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:24</strong>｜<strong class="nico-info-date">2025年02月21日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">354,180</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,757</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">7,702</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3,220</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第7位：シルバーバレット 2025 ver. / GUMI SV</title>
         <link>https://www.nicovideo.jp/watch/sm44749340?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-12:/watch/sm44749340</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="シルバーバレット 2025 ver. / GUMI SV" src="https://nicovideo.cdn.nimg.jp/thumbnails/44749340/44749340.57513177" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">「シルバーバレット」の13周年記念アレンジバージョンです。Original / Arrangemen</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:09</strong>｜<strong class="nico-info-date">2025年03月12日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">974</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">41</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">116</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">53</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:09</strong>｜<strong class="nico-info-date">2025年03月12日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,010</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">41</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">121</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">57</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第8位：かったるいな！ / 重音テトSV</title>
         <link>https://www.nicovideo.jp/watch/sm44751785?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-12:/watch/sm44751785</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="かったるいな！ / 重音テトSV" src="https://nicovideo.cdn.nimg.jp/thumbnails/44751785/44751785.1701090" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">○ Music & lyrics : Adeliae○ Vocal : 重音テトSV○ Mix & </p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:30</strong>｜<strong class="nico-info-date">2025年03月12日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">992</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">77</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">113</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">46</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:30</strong>｜<strong class="nico-info-date">2025年03月12日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,027</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">77</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">116</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">48</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第9位：ざぁこ / 歌愛ユキ</title>
         <link>https://www.nicovideo.jp/watch/sm44631883?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-09:/watch/sm44631883</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="ざぁこ / 歌愛ユキ" src="https://nicovideo.cdn.nimg.jp/thumbnails/44631883/44631883.76774257" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">https://www.nicolog.jp/watch/sm44628290</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:27</strong>｜<strong class="nico-info-date">2025年02月09日 22：27：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">195,345</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">3,219</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,664</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,094</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:27</strong>｜<strong class="nico-info-date">2025年02月09日 22：27：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">195,415</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">3,219</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,667</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,095</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第10位：オーバーライド - 重音テトSV[吉田夜世]</title>
         <link>https://www.nicovideo.jp/watch/sm43083649?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2023-11-29:/watch/sm43083649</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="オーバーライド - 重音テトSV[吉田夜世]" src="https://nicovideo.cdn.nimg.jp/thumbnails/43083649/43083649.94186123" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">Override - Kasane Teto SV[Yoshida Yasei]誰だこんな親クラス作</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:18</strong>｜<strong class="nico-info-date">2023年11月29日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,221,347</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">9,892</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">46,261</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">25,244</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:18</strong>｜<strong class="nico-info-date">2023年11月29日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,221,440</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">9,892</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">46,262</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">25,244</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第11位：マーシャル・マキシマイザー  / Vivid BAD SQUAD × 巡音ルカ</title>
-        <link>https://www.nicovideo.jp/watch/so44734248?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-11:/watch/so44734248</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="マーシャル・マキシマイザー  / Vivid BAD SQUAD × 巡音ルカ" src="https://nicovideo.cdn.nimg.jp/thumbnails/44734248/44734248.35521704" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">『マーシャル・マキシマイザー』Vivid BAD SQUAD × 巡音ルカ作詞・作曲：柊マグネタイト</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:44</strong>｜<strong class="nico-info-date">2025年03月11日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,475</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">27</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">193</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">205</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第12位：きょういくばんぐみのテーマ</title>
+        <title>第11位：きょういくばんぐみのテーマ</title>
         <link>https://www.nicovideo.jp/watch/sm44605121?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-02:/watch/sm44605121</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="きょういくばんぐみのテーマ" src="https://nicovideo.cdn.nimg.jp/thumbnails/44605121/44605121.1921689" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">曲名｢きょういくばんぐみのテーマ｣作詞作曲：ももにくす編曲：やみの おにいさんうた：やみの おねえさ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:07</strong>｜<strong class="nico-info-date">2025年02月02日 15：24：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">208,020</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">4,947</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">6,898</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,387</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:07</strong>｜<strong class="nico-info-date">2025年02月02日 15：24：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">208,124</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">4,947</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">6,899</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,387</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第12位：DECO*27 - モニタリング feat. 初音ミク</title>
+        <link>https://www.nicovideo.jp/watch/sm44317852?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2024-11-22:/watch/sm44317852</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="DECO*27 - モニタリング feat. 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44317852/44317852.3751477" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">「ねえあたし知ってるよ」Listen & Download: https://karent.jp/a</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:01</strong>｜<strong class="nico-info-date">2024年11月22日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,267,274</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">4,308</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">19,770</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10,583</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第13位：花弁、それにまつわる音声 / 初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm44681832?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44681832</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="花弁、それにまつわる音声 / 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44681832/44681832.32668326" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">音声です🤣streaming/download🔗Music / Lyric / Arrangemen</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:38</strong>｜<strong class="nico-info-date">2025年02月22日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">276,044</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,210</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">9,977</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">4,235</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:38</strong>｜<strong class="nico-info-date">2025年02月22日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">276,149</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,211</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">9,977</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">4,235</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第14位：DECO*27 - モニタリング feat. 初音ミク</title>
-        <link>https://www.nicovideo.jp/watch/sm44317852?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2024-11-22:/watch/sm44317852</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第14位：マーシャル・マキシマイザー  / Vivid BAD SQUAD × 巡音ルカ</title>
+        <link>https://www.nicovideo.jp/watch/so44734248?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-11:/watch/so44734248</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="DECO*27 - モニタリング feat. 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44317852/44317852.3751477" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">「ねえあたし知ってるよ」Listen & Download: https://karent.jp/a</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:01</strong>｜<strong class="nico-info-date">2024年11月22日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,267,012</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">4,308</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">19,767</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">10,582</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="マーシャル・マキシマイザー  / Vivid BAD SQUAD × 巡音ルカ" src="https://nicovideo.cdn.nimg.jp/thumbnails/44734248/44734248.35521704" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">『マーシャル・マキシマイザー』Vivid BAD SQUAD × 巡音ルカ作詞・作曲：柊マグネタイト</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:44</strong>｜<strong class="nico-info-date">2025年03月11日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,576</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">27</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">193</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">205</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第15位：僕らはなんにも悪くない！ / 宮守文学 feat.初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm44745353?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/sm44745353</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="僕らはなんにも悪くない！ / 宮守文学 feat.初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44745353/44745353.96792593" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">配信はこちら (streaming&DL)：https://karent.jp/album/4646</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:09</strong>｜<strong class="nico-info-date">2025年03月10日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">6,580</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">111</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">328</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">187</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:09</strong>｜<strong class="nico-info-date">2025年03月10日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">6,613</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">111</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">329</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">187</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第16位：うずまき／百夜カエル (feat.初音ミク)</title>
         <link>https://www.nicovideo.jp/watch/sm44750396?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-11:/watch/sm44750396</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="うずまき／百夜カエル (feat.初音ミク)" src="https://nicovideo.cdn.nimg.jp/thumbnails/44750396/44750396.57346569" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">Music / Movie : 百夜カエル(ももよかえる)https://twitter.com/m</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:51</strong>｜<strong class="nico-info-date">2025年03月11日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,526</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">53</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">142</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">72</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:51</strong>｜<strong class="nico-info-date">2025年03月11日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,553</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">53</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">142</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">75</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第17位：メズマライザー / 初音ミク・重音テトSV</title>
         <link>https://www.nicovideo.jp/watch/sm43708803?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2024-04-27:/watch/sm43708803</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="メズマライザー / 初音ミク・重音テトSV" src="https://nicovideo.cdn.nimg.jp/thumbnails/43708803/43708803.68284955" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">Streaming→https://karent.jp/album/41661st Full Alb</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:36</strong>｜<strong class="nico-info-date">2024年04月27日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,409,015</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">21,056</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">45,551</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">20,089</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:36</strong>｜<strong class="nico-info-date">2024年04月27日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,409,310</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">21,056</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">45,554</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">20,089</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第18位：チャカポコ ボイパ</title>
         <link>https://www.nicovideo.jp/watch/sm44740976?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-09:/watch/sm44740976</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="チャカポコ ボイパ" src="https://nicovideo.cdn.nimg.jp/thumbnails/44740976/44740976.90610910" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">【sm44721212】で使用した曲です　映像は声のイメージです</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:37</strong>｜<strong class="nico-info-date">2025年03月09日 19：19：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,238</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">79</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">144</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">26</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:37</strong>｜<strong class="nico-info-date">2025年03月09日 19：19：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,273</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">79</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">144</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">26</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第19位：第16回みんなで決めるゲーム音楽ベスト100(+900) Part31</title>
         <link>https://www.nicovideo.jp/watch/sm44741721?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-09:/watch/sm44741721</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="第16回みんなで決めるゲーム音楽ベスト100(+900) Part31" src="https://nicovideo.cdn.nimg.jp/thumbnails/44741721/44741721.18520310" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">低レアキャラに別スキン追加頼むよぉ（リディアたんちゅっちゅ---------------------</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">66:53</strong>｜<strong class="nico-info-date">2025年03月09日 11：52：02</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">13,345</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">961</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">303</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">64</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">66:53</strong>｜<strong class="nico-info-date">2025年03月09日 11：52：02</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">13,389</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">962</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">303</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">64</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第20位：み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ</title>
         <link>https://www.nicovideo.jp/watch/sm44397533?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2024-12-06:/watch/sm44397533</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ" src="https://nicovideo.cdn.nimg.jp/thumbnails/44397533/44397533.98839564" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">【曲名】 『み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ』　【FAタグ】 『#39neko』 (FAは余</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:39</strong>｜<strong class="nico-info-date">2024年12月06日 19：19：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,121,211</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">9,719</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">20,722</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">5,923</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:39</strong>｜<strong class="nico-info-date">2024年12月06日 19：19：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,121,276</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">9,719</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">20,725</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">5,923</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第21位：【比較】ざぁこ / 雑魚【フレーム一致】</title>
         <link>https://www.nicovideo.jp/watch/sm44747670?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/sm44747670</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【比較】ざぁこ / 雑魚【フレーム一致】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44747670/44747670.36391088" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">既出ですがピッタリのタイミングで切り替えたの見たかったためうｐ←sm44628290：ざぁこ / 歌</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:27</strong>｜<strong class="nico-info-date">2025年03月10日 20：39：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,850</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">41</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">122</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">25</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:27</strong>｜<strong class="nico-info-date">2025年03月10日 20：39：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,862</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">41</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">122</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">26</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第22位：大好きなスキが大好き!! ／ 鏡音リン</title>
         <link>https://www.nicovideo.jp/watch/sm44754209?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-12:/watch/sm44754209</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="大好きなスキが大好き!! ／ 鏡音リン" src="https://nicovideo.cdn.nimg.jp/thumbnails/44754209/44754209.7113762" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">楽しいやつです 第27回プロセカNEXT応募楽曲 音楽 絵 ぽて X https://twitter</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:41</strong>｜<strong class="nico-info-date">2025年03月12日 20：22：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">359</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">28</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">54</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">23</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:41</strong>｜<strong class="nico-info-date">2025年03月12日 20：22：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">377</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">28</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">55</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">23</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第23位：匙ノ咒 / 初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm44685408?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44685408</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="匙ノ咒 / 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44685408/44685408.61780438" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ああ、なんて可愛らしいの[credit] artworks / ミツ蜂 https://x.com/</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:29</strong>｜<strong class="nico-info-date">2025年02月22日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">216,692</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6,446</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">7,531</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3,346</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:29</strong>｜<strong class="nico-info-date">2025年02月22日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">216,740</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6,446</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">7,531</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3,347</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第24位：メルティレコード ／ DIVELA feat.初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm44743344?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-09:/watch/sm44743344</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="メルティレコード ／ DIVELA feat.初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44743344/44743344.55040098" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">DIVELAです。ミクさんの歌です。■Music ＆ Lyric：DIVELA：https://tw</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:49</strong>｜<strong class="nico-info-date">2025年03月09日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,969</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">185</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">583</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">306</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:49</strong>｜<strong class="nico-info-date">2025年03月09日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,987</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">185</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">583</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">306</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第25位：ニャルラト / 重音テトSV, 初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm44681459?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44681459</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="ニャルラト / 重音テトSV, 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44681459/44681459.99916723" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">「懺　懺　懺悔したってもうダメぽ」どうも藤原です。這い寄る歌です。Vocal: 重音テトSV, 初音</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:06</strong>｜<strong class="nico-info-date">2025年02月22日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">133,077</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,637</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,370</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,390</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:06</strong>｜<strong class="nico-info-date">2025年02月22日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">133,178</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,637</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,371</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,390</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第26位：キャンディークッキーチョコレート●●●初音ミク・重音テトSV</title>
         <link>https://www.nicovideo.jp/watch/sm44469704?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2024-12-27:/watch/sm44469704</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="キャンディークッキーチョコレート●●●初音ミク・重音テトSV" src="https://nicovideo.cdn.nimg.jp/thumbnails/44469704/44469704.12467886" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">Streaming→ https://linkco.re/P7dcz7dAHappy Hallowe</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:43</strong>｜<strong class="nico-info-date">2024年12月27日 14：15：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">592,226</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,455</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">7,416</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3,311</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:43</strong>｜<strong class="nico-info-date">2024年12月27日 14：15：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">592,298</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,455</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">7,417</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3,311</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第27位：「BOW AND ARROW」を弾いてみた【メダリストOP】</title>
         <link>https://www.nicovideo.jp/watch/sm44747223?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/sm44747223</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="「BOW AND ARROW」を弾いてみた【メダリストOP】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44747223/44747223.98643426" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">まらしぃです。TVアニメ「メダリスト」オープニング主題歌米津玄師さんの「BOW AND ARROW」</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:59</strong>｜<strong class="nico-info-date">2025年03月10日 19：08：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,750</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">183</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">353</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">77</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:59</strong>｜<strong class="nico-info-date">2025年03月10日 19：08：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,766</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">183</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">354</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">77</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第28位：知声 - eleven</title>
         <link>https://www.nicovideo.jp/watch/sm44748981?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-11:/watch/sm44748981</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="知声 - eleven" src="https://nicovideo.cdn.nimg.jp/thumbnails/44748981/44748981.56282749" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">1st Full Album 『When you wish upon a star』BOOTHにて販</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:46</strong>｜<strong class="nico-info-date">2025年03月11日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">944</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">94</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">81</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">35</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:46</strong>｜<strong class="nico-info-date">2025年03月11日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">956</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">94</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">81</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">35</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第29位：のだ / ずんだもん・初音ミク・重音テト</title>
         <link>https://www.nicovideo.jp/watch/sm42983761?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2023-11-06:/watch/sm42983761</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="のだ / ずんだもん・初音ミク・重音テト" src="https://nicovideo.cdn.nimg.jp/thumbnails/42983761/42983761.86547216" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">- これがありのままなのだ -・VOCALS ずんだもん・初音ミク・重音テト・MUSIC 大漠波新h</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:58</strong>｜<strong class="nico-info-date">2023年11月06日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,929,368</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8,546</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">31,623</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">14,793</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:58</strong>｜<strong class="nico-info-date">2023年11月06日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,929,417</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8,546</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">31,623</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">14,793</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第30位：超主人公 / 初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm44644338?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-14:/watch/sm44644338</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="超主人公 / 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44644338/44644338.56940256" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">Download & Streaming: https://linkco.re/4Hav8cr9はじ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:00</strong>｜<strong class="nico-info-date">2025年02月14日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">197,844</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">765</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,453</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,458</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:00</strong>｜<strong class="nico-info-date">2025年02月14日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">197,897</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">766</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,454</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,459</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第31位：マーシャル・マキシマイザー / 柊マグネタイト feat.可不</title>
         <link>https://www.nicovideo.jp/watch/sm39217773?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2021-08-21:/watch/sm39217773</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="マーシャル・マキシマイザー / 柊マグネタイト feat.可不" src="https://nicovideo.cdn.nimg.jp/thumbnails/39217773/39217773.82088901" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">『失敗！（Fail）』「マーシャル・マキシマイザー」柊マグネタイトと申します。六作品目。作詞作編曲M</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:45</strong>｜<strong class="nico-info-date">2021年08月21日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,817,911</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">11,061</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">49,850</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">35,628</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:45</strong>｜<strong class="nico-info-date">2021年08月21日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,817,965</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">11,061</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">49,850</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">35,628</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第32位：Love You / Capchii feat. 初音ミク</title>
-        <link>https://www.nicovideo.jp/watch/so44707567?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/so44707567</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第32位：ライアーダンサー／重音テトSV</title>
+        <link>https://www.nicovideo.jp/watch/sm42356352?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2023-06-15:/watch/sm42356352</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="Love You / Capchii feat. 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44707567/44707567.16036525" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">39culture 2025 「RETRO」テーマソングMusic：CapchiiX　https:/</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:50</strong>｜<strong class="nico-info-date">2025年03月10日 12：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,045</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">33</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">228</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">134</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="ライアーダンサー／重音テトSV" src="https://nicovideo.cdn.nimg.jp/thumbnails/42356352/42356352.91859651" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">初めまして！マサラダです。良かったら聞いてってください。曲、映像：マサラダ歌：重音テトSVオケと歌詞</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:59</strong>｜<strong class="nico-info-date">2023年06月15日 15：56：02</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,501,999</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8,639</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">21,240</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">11,166</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第33位：ざぁこ/雑魚　比較</title>
         <link>https://www.nicovideo.jp/watch/sm44747419?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/sm44747419</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="ざぁこ/雑魚　比較" src="https://nicovideo.cdn.nimg.jp/thumbnails/44747419/44747419.67990062" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ざぁこ / 歌愛ユキsm44628290雑魚 / 亞北ネルsm44747244タイミングずれてるのは</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:27</strong>｜<strong class="nico-info-date">2025年03月10日 19：18：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,906</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">34</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">111</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">28</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:27</strong>｜<strong class="nico-info-date">2025年03月10日 19：18：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,922</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">34</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">112</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">28</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第34位：ライアーダンサー／重音テトSV</title>
-        <link>https://www.nicovideo.jp/watch/sm42356352?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2023-06-15:/watch/sm42356352</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="ライアーダンサー／重音テトSV" src="https://nicovideo.cdn.nimg.jp/thumbnails/42356352/42356352.91859651" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">初めまして！マサラダです。良かったら聞いてってください。曲、映像：マサラダ歌：重音テトSVオケと歌詞</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:59</strong>｜<strong class="nico-info-date">2023年06月15日 15：56：02</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,501,968</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8,639</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">21,240</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">11,166</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第35位：ファイアダンス / Vivid BAD SQUAD</title>
+        <title>第34位：ファイアダンス / Vivid BAD SQUAD</title>
         <link>https://www.nicovideo.jp/watch/so44573168?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-01-25:/watch/so44573168</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="ファイアダンス / Vivid BAD SQUAD" src="https://nicovideo.cdn.nimg.jp/thumbnails/44573168/44573168.80416167" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">『ファイアダンス』Vivid BAD SQUAD作詞・作曲：DECO*27https://x.com</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:13</strong>｜<strong class="nico-info-date">2025年01月25日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">511,359</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">468</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,287</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3,695</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:13</strong>｜<strong class="nico-info-date">2025年01月25日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">511,432</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">468</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,287</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3,695</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第36位：DECO*27 - ハローセカイ feat. 初音ミク</title>
+        <title>第35位：DECO*27 - ハローセカイ feat. 初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm44594615?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-09:/watch/sm44594615</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="DECO*27 - ハローセカイ feat. 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44594615/44594615.96429044" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">「ハロー、セカイ」Listen & Download: https://karent.jp/albu</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:43</strong>｜<strong class="nico-info-date">2025年02月09日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">297,522</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">900</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,089</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,184</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:43</strong>｜<strong class="nico-info-date">2025年02月09日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">297,626</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">900</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,089</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,184</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第37位：アンチユー / MORE MORE JUMP！ × 巡音ルカ</title>
-        <link>https://www.nicovideo.jp/watch/so44640660?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-18:/watch/so44640660</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="アンチユー / MORE MORE JUMP！ × 巡音ルカ" src="https://nicovideo.cdn.nimg.jp/thumbnails/44640660/44640660.20618688" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">『アンチユー』MORE MORE JUMP！ × 巡音ルカ作詞・作曲：Chinozo　https:/</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:28</strong>｜<strong class="nico-info-date">2025年02月18日 21：45：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">177,273</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">233</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,626</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,353</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第38位：マリオネットダンサー / ひらぎ feat.初音ミク</title>
-        <link>https://www.nicovideo.jp/watch/sm44674989?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-21:/watch/sm44674989</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="マリオネットダンサー / ひらぎ feat.初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44674989/44674989.35813714" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">『マリオネットダンサー』■Music / Lyrics / Chorus　ひらぎhttps://x.</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:20</strong>｜<strong class="nico-info-date">2025年02月21日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">125,556</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,455</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">5,634</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,660</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第39位：Royal Scandal「チェリーハント」feat. 奏音69</title>
+        <title>第36位：Royal Scandal「チェリーハント」feat. 奏音69</title>
         <link>https://www.nicovideo.jp/watch/sm44754114?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-12:/watch/sm44754114</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="Royal Scandal「チェリーハント」feat. 奏音69" src="https://nicovideo.cdn.nimg.jp/thumbnails/44754114/44754114.97580673" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ナカナイ女＝イイコじゃないのよ。✦Episode 0 - Story & Characterhttp</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:50</strong>｜<strong class="nico-info-date">2025年03月12日 22：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">197</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">29</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">17</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:50</strong>｜<strong class="nico-info-date">2025年03月12日 22：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">207</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">32</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">18</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第37位：Love You / Capchii feat. 初音ミク</title>
+        <link>https://www.nicovideo.jp/watch/so44707567?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/so44707567</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="Love You / Capchii feat. 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44707567/44707567.16036525" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">39culture 2025 「RETRO」テーマソングMusic：CapchiiX　https:/</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:50</strong>｜<strong class="nico-info-date">2025年03月10日 12：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,055</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">33</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">228</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">134</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第38位：アンチユー / MORE MORE JUMP！ × 巡音ルカ</title>
+        <link>https://www.nicovideo.jp/watch/so44640660?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-18:/watch/so44640660</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="アンチユー / MORE MORE JUMP！ × 巡音ルカ" src="https://nicovideo.cdn.nimg.jp/thumbnails/44640660/44640660.20618688" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">『アンチユー』MORE MORE JUMP！ × 巡音ルカ作詞・作曲：Chinozo　https:/</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:28</strong>｜<strong class="nico-info-date">2025年02月18日 21：45：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">177,322</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">233</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,626</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,353</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第39位：マリオネットダンサー / ひらぎ feat.初音ミク</title>
+        <link>https://www.nicovideo.jp/watch/sm44674989?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-21:/watch/sm44674989</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="マリオネットダンサー / ひらぎ feat.初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44674989/44674989.35813714" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">『マリオネットダンサー』■Music / Lyrics / Chorus　ひらぎhttps://x.</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:20</strong>｜<strong class="nico-info-date">2025年02月21日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">125,625</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,455</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">5,634</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,660</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第40位：YOASOBI「UNDEAD」 Music Video</title>
         <link>https://www.nicovideo.jp/watch/sm44103755?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2024-09-15:/watch/sm44103755</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="YOASOBI「UNDEAD」 Music Video" src="https://nicovideo.cdn.nimg.jp/thumbnails/44103755/44103755.82342029" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">転載元　https://www.youtube.com/watch?v=Jj1_mfUzjOs～～～</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:06</strong>｜<strong class="nico-info-date">2024年09月15日 00：06：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">493,592</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">244</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,838</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,849</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:06</strong>｜<strong class="nico-info-date">2024年09月15日 00：06：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">493,673</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">244</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,838</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,849</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第41位：【歌うボイスロイド】バグ【琴葉茜・琴葉葵】</title>
-        <link>https://www.nicovideo.jp/watch/sm44747664?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-11:/watch/sm44747664</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第41位：DECO*27 - ラビットホール feat. 初音ミク</title>
+        <link>https://www.nicovideo.jp/watch/sm42224358?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2023-05-19:/watch/sm42224358</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【歌うボイスロイド】バグ【琴葉茜・琴葉葵】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44747664/44747664.21447890" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">前回投稿してから1ヶ月しか経ってないけど動画上がりました！！！動画の出来は変わらず良い物ができたので</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:50</strong>｜<strong class="nico-info-date">2025年03月11日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,219</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">19</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">64</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">24</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="DECO*27 - ラビットホール feat. 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/42224358/42224358.70397019" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">「死ぬまでピュアピュアやってんのん？」mylist/9850666Listen & Download</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:42</strong>｜<strong class="nico-info-date">2023年05月19日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,895,925</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,783</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">41,635</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">22,724</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第42位：㋰責任集合体／重音テトSV</title>
         <link>https://www.nicovideo.jp/watch/sm43773753?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2024-05-11:/watch/sm43773753</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="㋰責任集合体／重音テトSV" src="https://nicovideo.cdn.nimg.jp/thumbnails/43773753/43773753.17939958" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">お天道様のお陰様で！歌：重音テトSV曲、映像：マサラダ歌詞とインストhttps://drive.go</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:29</strong>｜<strong class="nico-info-date">2024年05月11日 03：04：02</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,435,886</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,043</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">19,071</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">9,209</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:29</strong>｜<strong class="nico-info-date">2024年05月11日 03：04：02</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,435,936</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,043</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">19,071</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">9,209</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第43位：1ピース - 初音ミク</title>
-        <link>https://www.nicovideo.jp/watch/sm44685716?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44685716</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="1ピース - 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44685716/44685716.98256339" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">椎乃味醂です。　mylist/59627983　Twitter https://twitter.co</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:00</strong>｜<strong class="nico-info-date">2025年02月22日 18：25：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">107,027</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,037</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,994</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,837</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第44位：DECO*27 - ラビットホール feat. 初音ミク</title>
-        <link>https://www.nicovideo.jp/watch/sm42224358?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2023-05-19:/watch/sm42224358</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="DECO*27 - ラビットホール feat. 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/42224358/42224358.70397019" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">「死ぬまでピュアピュアやってんのん？」mylist/9850666Listen & Download</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:42</strong>｜<strong class="nico-info-date">2023年05月19日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,895,875</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,783</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">41,635</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">22,724</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第45位：ずんだレンジャー / なみぐる feat.ずんだもん</title>
+        <title>第43位：ずんだレンジャー / なみぐる feat.ずんだもん</title>
         <link>https://www.nicovideo.jp/watch/sm44637918?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44637918</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="ずんだレンジャー / なみぐる feat.ずんだもん" src="https://nicovideo.cdn.nimg.jp/thumbnails/44637918/44637918.75359437" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ズンバラルーバ　 ズンダバラルーバ( ・ω・ ♋︎）三（♋︎ ・ω・）♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:03</strong>｜<strong class="nico-info-date">2025年02月22日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">101,508</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,873</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,985</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,513</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:03</strong>｜<strong class="nico-info-date">2025年02月22日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">101,522</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,873</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,985</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,513</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第46位：【宮舞モカ】進捗ダメダメです【ＭＶ】</title>
-        <link>https://www.nicovideo.jp/watch/sm44470676?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2024-12-27:/watch/sm44470676</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第44位：1ピース - 初音ミク</title>
+        <link>https://www.nicovideo.jp/watch/sm44685716?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44685716</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【宮舞モカ】進捗ダメダメです【ＭＶ】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44470676/44470676.96245570" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">（宮舞モカは）初投稿です。🎵サブスク配信中！https://nex-tone.link/A00175</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:20</strong>｜<strong class="nico-info-date">2024年12月27日 21：05：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">230,956</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,417</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">7,191</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,506</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="1ピース - 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44685716/44685716.98256339" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">椎乃味醂です。　mylist/59627983　Twitter https://twitter.co</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:00</strong>｜<strong class="nico-info-date">2025年02月22日 18：25：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">107,033</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,037</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,994</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,837</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第47位：きゅうくらりん / いよわ feat.可不</title>
-        <link>https://www.nicovideo.jp/watch/sm39257413?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2021-08-29:/watch/sm39257413</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="きゅうくらりん / いよわ feat.可不" src="https://nicovideo.cdn.nimg.jp/thumbnails/39257413/39257413.83676498" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">胃が弱いからいよわです制作楽曲マイリスト→mylist/64065736作詞作編曲・絵・動画　いよわ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:36</strong>｜<strong class="nico-info-date">2021年08月29日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,888,618</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">18,488</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">78,648</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">41,410</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第48位：「アンチユー」feat.初音ミク</title>
-        <link>https://www.nicovideo.jp/watch/sm44664829?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-18:/watch/sm44664829</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="「アンチユー」feat.初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44664829/44664829.37124701" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">アンチ　アンチユー！※「プロジェクトセカイ」MORE MORE JUMP！書き下ろし楽曲です■作詞作</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:26</strong>｜<strong class="nico-info-date">2025年02月18日 22：15：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">79,737</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">326</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,643</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">928</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第49位：混沌ブギ / jon-YAKITORY, 初音ミク</title>
+        <title>第45位：混沌ブギ / jon-YAKITORY, 初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm42682989?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2023-08-30:/watch/sm42682989</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="混沌ブギ / jon-YAKITORY, 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/42682989/42682989.91726213" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">DL&Streaming⇒ https://linkco.re/FNVfX1faoff vocal⇒</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:34</strong>｜<strong class="nico-info-date">2023年08月30日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,722,953</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6,542</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">38,453</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">18,661</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:34</strong>｜<strong class="nico-info-date">2023年08月30日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,723,003</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6,542</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">38,454</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">18,662</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第50位：【初音ミク×マクドナルド】ぽってっとー【ぽっぴっぽー】</title>
-        <link>https://www.nicovideo.jp/watch/sm44746975?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/sm44746975</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第46位：きゅうくらりん / いよわ feat.可不</title>
+        <link>https://www.nicovideo.jp/watch/sm39257413?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2021-08-29:/watch/sm39257413</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【初音ミク×マクドナルド】ぽってっとー【ぽっぴっぽー】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44746975/44746975.89612828" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">ぽってっとー</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:13</strong>｜<strong class="nico-info-date">2025年03月10日 17：38：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,378</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">27</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">42</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">17</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="きゅうくらりん / いよわ feat.可不" src="https://nicovideo.cdn.nimg.jp/thumbnails/39257413/39257413.83676498" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">胃が弱いからいよわです制作楽曲マイリスト→mylist/64065736作詞作編曲・絵・動画　いよわ</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:36</strong>｜<strong class="nico-info-date">2021年08月29日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,888,680</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">18,488</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">78,648</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">41,410</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第51位：【結月ゆかり】名前のない怪物を歌ってもらった【PSYCHO-PASS】</title>
-        <link>https://www.nicovideo.jp/watch/sm20308615?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2013-03-11:/watch/sm20308615</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【結月ゆかり】名前のない怪物を歌ってもらった【PSYCHO-PASS】" src="https://nicovideo.cdn.nimg.jp/thumbnails/20308615/20308615" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">■「Unnamed」に収録のリメイク版、ニコでも公開しました　→sm36923799配信スタートしま</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">5:30</strong>｜<strong class="nico-info-date">2013年03月11日 22：05：27</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,859,761</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">21,161</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,062</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">49,369</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第52位：堕落入門 / 可ラッカ feat.可不</title>
+        <title>第47位：堕落入門 / 可ラッカ feat.可不</title>
         <link>https://www.nicovideo.jp/watch/sm44753417?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-12:/watch/sm44753417</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="堕落入門 / 可ラッカ feat.可不" src="https://nicovideo.cdn.nimg.jp/thumbnails/44753417/44753417.8951066" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">可ラッカです3rd EP『堕落入門』収録CD：https://caracca.booth.pm/it</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:04</strong>｜<strong class="nico-info-date">2025年03月12日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">209</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">28</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">11</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:04</strong>｜<strong class="nico-info-date">2025年03月12日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">213</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">29</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">11</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第53位：【SynthesizerV】銀河鉄道999(ゴダイゴ)を歌ってもらった【宮舞モカ・重音テト】</title>
-        <link>https://www.nicovideo.jp/watch/sm44732880?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-07:/watch/sm44732880</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第48位：【宮舞モカ】進捗ダメダメです【ＭＶ】</title>
+        <link>https://www.nicovideo.jp/watch/sm44470676?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2024-12-27:/watch/sm44470676</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【SynthesizerV】銀河鉄道999(ゴダイゴ)を歌ってもらった【宮舞モカ・重音テト】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44732880/44732880.12518531" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">楽曲：銀河鉄道999　(映画「銀河鉄道999」OP曲)ボーカル●SynthesizerV：宮舞モカ　</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:21</strong>｜<strong class="nico-info-date">2025年03月07日 05：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">28,260</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">126</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">315</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">79</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="【宮舞モカ】進捗ダメダメです【ＭＶ】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44470676/44470676.96245570" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">（宮舞モカは）初投稿です。🎵サブスク配信中！https://nex-tone.link/A00175</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:20</strong>｜<strong class="nico-info-date">2024年12月27日 21：05：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">230,964</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,417</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">7,191</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,506</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第54位：イガク - 重音テト</title>
+        <title>第49位：【初音ミク×マクドナルド】ぽってっとー【ぽっぴっぽー】</title>
+        <link>https://www.nicovideo.jp/watch/sm44746975?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/sm44746975</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【初音ミク×マクドナルド】ぽってっとー【ぽっぴっぽー】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44746975/44746975.89612828" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">ぽってっとー</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:13</strong>｜<strong class="nico-info-date">2025年03月10日 17：38：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,394</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">27</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">42</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">17</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第50位：【歌うボイスロイド】バグ【琴葉茜・琴葉葵】</title>
+        <link>https://www.nicovideo.jp/watch/sm44747664?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-11:/watch/sm44747664</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【歌うボイスロイド】バグ【琴葉茜・琴葉葵】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44747664/44747664.21447890" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">前回投稿してから1ヶ月しか経ってないけど動画上がりました！！！動画の出来は変わらず良い物ができたので</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:50</strong>｜<strong class="nico-info-date">2025年03月11日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,227</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">19</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">64</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">24</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第51位：「アンチユー」feat.初音ミク</title>
+        <link>https://www.nicovideo.jp/watch/sm44664829?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-18:/watch/sm44664829</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="「アンチユー」feat.初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44664829/44664829.37124701" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">アンチ　アンチユー！※「プロジェクトセカイ」MORE MORE JUMP！書き下ろし楽曲です■作詞作</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:26</strong>｜<strong class="nico-info-date">2025年02月18日 22：15：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">79,753</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">326</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,643</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">928</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第52位：イガク - 重音テト</title>
         <link>https://www.nicovideo.jp/watch/sm43436193?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2024-02-23:/watch/sm43436193</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="イガク - 重音テト" src="https://nicovideo.cdn.nimg.jp/thumbnails/43436193/43436193.24020685" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">残念！！！！！！！！！------------------------------イガク - 重音テ</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:00</strong>｜<strong class="nico-info-date">2024年02月23日 01：07：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,487,963</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">25,301</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">37,255</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">15,948</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:00</strong>｜<strong class="nico-info-date">2024年02月23日 01：07：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,488,025</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">25,301</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">37,256</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">15,948</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第55位：Q-SIDE / 初音ミク</title>
-        <link>https://www.nicovideo.jp/watch/sm44691141?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-23:/watch/sm44691141</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第53位：【結月ゆかり】名前のない怪物を歌ってもらった【PSYCHO-PASS】</title>
+        <link>https://www.nicovideo.jp/watch/sm20308615?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2013-03-11:/watch/sm20308615</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="Q-SIDE / 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44691141/44691141.38514235" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">▼ゲームプレイはこちらからhttps://unityroom.com/games/qsideメルト歴</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">5:20</strong>｜<strong class="nico-info-date">2025年02月23日 20：22：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">66,820</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,378</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,266</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,312</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="【結月ゆかり】名前のない怪物を歌ってもらった【PSYCHO-PASS】" src="https://nicovideo.cdn.nimg.jp/thumbnails/20308615/20308615" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">■「Unnamed」に収録のリメイク版、ニコでも公開しました　→sm36923799配信スタートしま</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">5:30</strong>｜<strong class="nico-info-date">2013年03月11日 22：05：27</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,859,772</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">21,161</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,062</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">49,369</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第56位：オーバーライド 四国めたんNEUTRINOカバー</title>
+        <title>第54位：オーバーライド 四国めたんNEUTRINOカバー</title>
         <link>https://www.nicovideo.jp/watch/sm44729471?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-06:/watch/sm44729471</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="オーバーライド 四国めたんNEUTRINOカバー" src="https://nicovideo.cdn.nimg.jp/thumbnails/44729471/44729471.11252655" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">綺麗な方です。なんか物足りないのでエフェクト足しました。</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:18</strong>｜<strong class="nico-info-date">2025年03月06日 06：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">11,156</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">437</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">562</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">56</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:18</strong>｜<strong class="nico-info-date">2025年03月06日 06：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">11,169</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">437</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">563</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">56</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第57位：熱異常 / いよわ feat.足立レイ</title>
+        <title>第55位：【SynthesizerV】銀河鉄道999(ゴダイゴ)を歌ってもらった【宮舞モカ・重音テト】</title>
+        <link>https://www.nicovideo.jp/watch/sm44732880?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-07:/watch/sm44732880</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【SynthesizerV】銀河鉄道999(ゴダイゴ)を歌ってもらった【宮舞モカ・重音テト】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44732880/44732880.12518531" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">楽曲：銀河鉄道999　(映画「銀河鉄道999」OP曲)ボーカル●SynthesizerV：宮舞モカ　</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:21</strong>｜<strong class="nico-info-date">2025年03月07日 05：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">28,363</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">126</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">315</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">79</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第56位：熱異常 / いよわ feat.足立レイ</title>
         <link>https://www.nicovideo.jp/watch/sm41193299?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2022-10-08:/watch/sm41193299</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="熱異常 / いよわ feat.足立レイ" src="https://nicovideo.cdn.nimg.jp/thumbnails/41193299/41193299.68161621" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">胃が弱いからいよわです足立レイさんが好きなので歌ってもらいました制作曲マイリストmylist/640</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:01</strong>｜<strong class="nico-info-date">2022年10月08日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,845,109</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">17,421</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">28,844</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">14,037</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:01</strong>｜<strong class="nico-info-date">2022年10月08日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">2,845,154</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">17,421</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">28,845</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">14,037</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第58位：ライアーダンサー / ワンダーランズ×ショウタイム × KAITO【3DMV】</title>
-        <link>https://www.nicovideo.jp/watch/so44746601?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/so44746601</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第57位：Q-SIDE / 初音ミク</title>
+        <link>https://www.nicovideo.jp/watch/sm44691141?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-23:/watch/sm44691141</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="ライアーダンサー / ワンダーランズ×ショウタイム × KAITO【3DMV】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44746601/44746601.22953645" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">『ライアーダンサー』作詞・作曲：マサラダ https://x.com/sisterofoira◆原曲</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:02</strong>｜<strong class="nico-info-date">2025年03月10日 15：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,008</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">50</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">164</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">107</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="Q-SIDE / 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44691141/44691141.38514235" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">▼ゲームプレイはこちらからhttps://unityroom.com/games/qsideメルト歴</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">5:20</strong>｜<strong class="nico-info-date">2025年02月23日 20：22：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">66,837</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,378</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,266</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,312</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第59位：【モニタリング】 歌ってみた☁</title>
-        <link>https://www.nicovideo.jp/watch/sm44754255?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-12:/watch/sm44754255</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【モニタリング】 歌ってみた☁" src="https://nicovideo.cdn.nimg.jp/thumbnails/44754255/44754255.90747293" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">『 あたしそれでも好きだよ 』✝本家様【sm44317852】✝Vocal【くろくも】【mylist</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:01</strong>｜<strong class="nico-info-date">2025年03月12日 20：33：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">174</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">13</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">31</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">14</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第60位：おーばーらいど！</title>
+        <title>第58位：おーばーらいど！</title>
         <link>https://www.nicovideo.jp/watch/sm44686618?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44686618</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="おーばーらいど！" src="https://nicovideo.cdn.nimg.jp/thumbnails/44686618/44686618.52168553" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">誰だこんなREMIX作ったのはTOP100にも「ニャルラト」で出てます→ sm44681459Voc</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:22</strong>｜<strong class="nico-info-date">2025年02月22日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">57,384</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">700</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,547</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">584</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:22</strong>｜<strong class="nico-info-date">2025年02月22日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">57,399</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">700</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,548</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">584</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第61位：フォニイ - kafu [オリジナル]</title>
+        <title>第59位：フォニイ - kafu [オリジナル]</title>
         <link>https://www.nicovideo.jp/watch/sm38833751?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2021-06-05:/watch/sm38833751</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="フォニイ - kafu [オリジナル]" src="https://nicovideo.cdn.nimg.jp/thumbnails/38833751/38833751.80872787" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ツミキです。誰しもが嘘に絡まっている。［voice］可不［music/lyric/arrange/m</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:08</strong>｜<strong class="nico-info-date">2021年06月05日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,991,518</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">26,607</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">66,021</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">47,653</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:08</strong>｜<strong class="nico-info-date">2021年06月05日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,991,555</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">26,607</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">66,021</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">47,653</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第60位：【モニタリング】 歌ってみた☁</title>
+        <link>https://www.nicovideo.jp/watch/sm44754255?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-12:/watch/sm44754255</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【モニタリング】 歌ってみた☁" src="https://nicovideo.cdn.nimg.jp/thumbnails/44754255/44754255.90747293" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">『 あたしそれでも好きだよ 』✝本家様【sm44317852】✝Vocal【くろくも】【mylist</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:01</strong>｜<strong class="nico-info-date">2025年03月12日 20：33：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">176</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">13</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">31</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">14</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第61位：ライアーダンサー / ワンダーランズ×ショウタイム × KAITO【3DMV】</title>
+        <link>https://www.nicovideo.jp/watch/so44746601?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/so44746601</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ライアーダンサー / ワンダーランズ×ショウタイム × KAITO【3DMV】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44746601/44746601.22953645" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">『ライアーダンサー』作詞・作曲：マサラダ https://x.com/sisterofoira◆原曲</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:02</strong>｜<strong class="nico-info-date">2025年03月10日 15：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,016</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">50</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">164</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">107</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第62位：ダーリンダンス / かいりきベア feat.初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm37441963?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2020-08-30:/watch/sm37441963</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="ダーリンダンス / かいりきベア feat.初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/37441963/37441963.8827720" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">▼サブスク配信(AppleMusic Spotify等)https://linkco.re/cn8m</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:27</strong>｜<strong class="nico-info-date">2020年08月30日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,096,221</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">20,689</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">46,279</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">37,180</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:27</strong>｜<strong class="nico-info-date">2020年08月30日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,096,260</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">20,689</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">46,279</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">37,180</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第63位：ムーンアイズ・キャット / 瀬名航 feat.初音ミク</title>
-        <link>https://www.nicovideo.jp/watch/sm44657618?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44657618</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="ムーンアイズ・キャット / 瀬名航 feat.初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44657618/44657618.57736397" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">瀬名航(せなわたる)です。48作目です。👀Vocal：初音ミクLyrics,Music,Arrang</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:42</strong>｜<strong class="nico-info-date">2025年02月22日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">43,194</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">509</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,677</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,394</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第64位：Plazma-biim</title>
-        <link>https://www.nicovideo.jp/watch/sm44685372?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44685372</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="Plazma-biim" src="https://nicovideo.cdn.nimg.jp/thumbnails/44685372/44685372.14020026" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">リスペクトの心があるから何万回擦ってもいいよね歌：大江戸ちゃんこ（NEUTRINO）</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">1:19</strong>｜<strong class="nico-info-date">2025年02月22日 17：29：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">55,587</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">572</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,720</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">336</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第65位：1000年生きてる / いよわ feat.初音ミク</title>
+        <title>第63位：1000年生きてる / いよわ feat.初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm37944844?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2020-12-11:/watch/sm37944844</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="1000年生きてる / いよわ feat.初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/37944844/37944844.79264053" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">いよわと申します。胃が弱いです。16作目です　長生きしてぇ〜〜〜〜〜制作楽曲マイリスト→mylist</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:14</strong>｜<strong class="nico-info-date">2020年12月11日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,620,016</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,587</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">31,451</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">18,536</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:14</strong>｜<strong class="nico-info-date">2020年12月11日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,620,062</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,587</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">31,451</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">18,536</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第64位：人マニア - 重音テト</title>
+        <link>https://www.nicovideo.jp/watch/sm42585649?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2023-08-06:/watch/sm42585649</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="人マニア - 重音テト" src="https://nicovideo.cdn.nimg.jp/thumbnails/42585649/42585649.26980841" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">こんにちは。人マニアです。------------------------------人マニア - </p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:07</strong>｜<strong class="nico-info-date">2023年08月06日 13：33：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,637,186</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">22,639</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">60,124</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">23,551</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第65位：Plazma-biim</title>
+        <link>https://www.nicovideo.jp/watch/sm44685372?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44685372</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="Plazma-biim" src="https://nicovideo.cdn.nimg.jp/thumbnails/44685372/44685372.14020026" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">リスペクトの心があるから何万回擦ってもいいよね歌：大江戸ちゃんこ（NEUTRINO）</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:19</strong>｜<strong class="nico-info-date">2025年02月22日 17：29：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">55,602</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">572</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,720</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">336</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第66位：オーバーライド / MORE MORE JUMP！ × 鏡音リン【3DMV】</title>
         <link>https://www.nicovideo.jp/watch/so44702081?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-07:/watch/so44702081</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="オーバーライド / MORE MORE JUMP！ × 鏡音リン【3DMV】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44702081/44702081.78769343" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">『オーバーライド』作詞・作曲：吉田夜世 https://x.com/otgys◆原曲https://</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">1:58</strong>｜<strong class="nico-info-date">2025年03月07日 15：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">17,638</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">148</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">394</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">178</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:58</strong>｜<strong class="nico-info-date">2025年03月07日 15：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">17,649</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">148</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">394</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">178</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第67位：モシュネの心音 歌ってみた__</title>
-        <link>https://www.nicovideo.jp/watch/sm44735319?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-07:/watch/sm44735319</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="モシュネの心音 歌ってみた__" src="https://nicovideo.cdn.nimg.jp/thumbnails/44735319/44735319.3227194" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">sm44680506←本家様(mopi 様) carcerate mylist/8291015 ※歌</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:24</strong>｜<strong class="nico-info-date">2025年03月07日 20：20：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">16,660</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">326</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">799</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">276</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第68位：絶滅によろしく / ナースロボ＿タイプT</title>
-        <link>https://www.nicovideo.jp/watch/sm44676489?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44676489</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="絶滅によろしく / ナースロボ＿タイプT" src="https://nicovideo.cdn.nimg.jp/thumbnails/44676489/44676489.39140537" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">szriです。ボカコレ2025冬TOP100 参加楽曲Vocal:ナースロボ＿タイプT(UTAU・V</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:50</strong>｜<strong class="nico-info-date">2025年02月22日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">66,297</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">569</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,465</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,684</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第69位：人マニア - 重音テト</title>
-        <link>https://www.nicovideo.jp/watch/sm42585649?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2023-08-06:/watch/sm42585649</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="人マニア - 重音テト" src="https://nicovideo.cdn.nimg.jp/thumbnails/42585649/42585649.26980841" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">こんにちは。人マニアです。------------------------------人マニア - </p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:07</strong>｜<strong class="nico-info-date">2023年08月06日 13：33：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,637,155</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">22,639</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">60,123</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">23,549</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第70位：みきとP 『 YAMI CROW 』 MV</title>
-        <link>https://www.nicovideo.jp/watch/sm44741644?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-09:/watch/sm44741644</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="みきとP 『 YAMI CROW 』 MV" src="https://nicovideo.cdn.nimg.jp/thumbnails/44741644/44741644.23075353" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">六月の病Streaming / DL https://lit.link/mikitopX(Twitt</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:00</strong>｜<strong class="nico-info-date">2025年03月09日 21：16：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,915</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">120</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">338</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">178</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第71位：稲葉曇『ラグトレイン』Vo. 歌愛ユキ</title>
+        <title>第67位：稲葉曇『ラグトレイン』Vo. 歌愛ユキ</title>
         <link>https://www.nicovideo.jp/watch/sm37198038?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2020-07-16:/watch/sm37198038</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="稲葉曇『ラグトレイン』Vo. 歌愛ユキ" src="https://nicovideo.cdn.nimg.jp/thumbnails/37198038/37198038.41264715" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">稲葉曇です。■ mylist/54974850■ Twitter　https://twitter.c</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:11</strong>｜<strong class="nico-info-date">2020年07月16日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,386,570</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">19,628</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">49,134</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">37,639</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:11</strong>｜<strong class="nico-info-date">2020年07月16日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,386,598</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">19,628</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">49,136</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">37,639</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第72位：そこに在る、光。 / 25時、ナイトコードで。</title>
+        <title>第68位：モシュネの心音 歌ってみた__</title>
+        <link>https://www.nicovideo.jp/watch/sm44735319?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-07:/watch/sm44735319</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="モシュネの心音 歌ってみた__" src="https://nicovideo.cdn.nimg.jp/thumbnails/44735319/44735319.3227194" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">sm44680506←本家様(mopi 様) carcerate mylist/8291015 ※歌</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:24</strong>｜<strong class="nico-info-date">2025年03月07日 20：20：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">16,676</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">326</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">799</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">276</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第69位：みきとP 『 YAMI CROW 』 MV</title>
+        <link>https://www.nicovideo.jp/watch/sm44741644?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-09:/watch/sm44741644</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="みきとP 『 YAMI CROW 』 MV" src="https://nicovideo.cdn.nimg.jp/thumbnails/44741644/44741644.23075353" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">六月の病Streaming / DL https://lit.link/mikitopX(Twitt</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:00</strong>｜<strong class="nico-info-date">2025年03月09日 21：16：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,927</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">120</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">338</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">178</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第70位：そこに在る、光。 / 25時、ナイトコードで。</title>
         <link>https://www.nicovideo.jp/watch/so44572953?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-01-28:/watch/so44572953</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="そこに在る、光。 / 25時、ナイトコードで。" src="https://nicovideo.cdn.nimg.jp/thumbnails/44572953/44572953.8601582" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">『そこに在る、光。』25時、ナイトコードで。作詞・作曲：DECO*27https://x.com/D</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:15</strong>｜<strong class="nico-info-date">2025年01月28日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">311,872</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">393</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,052</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,971</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:15</strong>｜<strong class="nico-info-date">2025年01月28日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">311,968</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">393</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,052</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,971</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第73位：【薬屋のひとりごと 第2期OP】百花繚乱 / 幾田りらバイオリンで弾いてみた。</title>
-        <link>https://www.nicovideo.jp/watch/sm44711929?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-01:/watch/sm44711929</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【薬屋のひとりごと 第2期OP】百花繚乱 / 幾田りらバイオリンで弾いてみた。" src="https://nicovideo.cdn.nimg.jp/thumbnails/44711929/44711929.30801989" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">今回はアニメ『薬屋のひとりごと』第2期OPより幾田りらさんの「百花繚乱」をバイオリンで演奏させて頂き</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:00</strong>｜<strong class="nico-info-date">2025年03月01日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,831</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">98</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">108</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">21</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第74位：女々しくて【小春六花・夏色花梨・花隈千冬】</title>
-        <link>https://www.nicovideo.jp/watch/sm44557710?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-01-19:/watch/sm44557710</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="女々しくて【小春六花・夏色花梨・花隈千冬】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44557710/44557710.89542412" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">みんなでうたおう！！！！！！！！！！！！！！！●Original：ゴールデンボンバー 様https:</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:33</strong>｜<strong class="nico-info-date">2025年01月19日 21：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">252,814</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">880</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,786</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">939</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第75位：初星学園「ハッピーミルフィーユ」Official Music Video</title>
+        <title>第71位：初星学園「ハッピーミルフィーユ」Official Music Video</title>
         <link>https://www.nicovideo.jp/watch/so44598485?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-01:/watch/so44598485</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="初星学園「ハッピーミルフィーユ」Official Music Video" src="https://nicovideo.cdn.nimg.jp/thumbnails/44598485/44598485.61703907" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">ハッピーミルフィーユ------------------------------▶Music歌：初星</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:13</strong>｜<strong class="nico-info-date">2025年02月01日 22：10：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">131,355</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">904</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,203</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">909</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:13</strong>｜<strong class="nico-info-date">2025年02月01日 22：10：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">131,372</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">905</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,204</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">909</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第76位：wowaka『アンノウン・マザーグース』feat. 初音ミク</title>
+        <title>第72位：ムーンアイズ・キャット / 瀬名航 feat.初音ミク</title>
+        <link>https://www.nicovideo.jp/watch/sm44657618?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44657618</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ムーンアイズ・キャット / 瀬名航 feat.初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44657618/44657618.57736397" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">瀬名航(せなわたる)です。48作目です。👀Vocal：初音ミクLyrics,Music,Arrang</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:42</strong>｜<strong class="nico-info-date">2025年02月22日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">43,200</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">509</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,677</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,395</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第73位：女々しくて【小春六花・夏色花梨・花隈千冬】</title>
+        <link>https://www.nicovideo.jp/watch/sm44557710?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-01-19:/watch/sm44557710</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="女々しくて【小春六花・夏色花梨・花隈千冬】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44557710/44557710.89542412" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">みんなでうたおう！！！！！！！！！！！！！！！●Original：ゴールデンボンバー 様https:</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:33</strong>｜<strong class="nico-info-date">2025年01月19日 21：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">252,889</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">880</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,786</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">939</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第74位：wowaka『アンノウン・マザーグース』feat. 初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm31791630?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2017-08-22:/watch/sm31791630</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="wowaka『アンノウン・マザーグース』feat. 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/31791630/31791630" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">おひさしぶりです、wowakaです。■ mylist/12484677■ Web　http://ww</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:45</strong>｜<strong class="nico-info-date">2017年08月22日 17：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">13,359,818</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">269,574</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">48,018</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">83,251</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:45</strong>｜<strong class="nico-info-date">2017年08月22日 17：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">13,359,853</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">269,575</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">48,019</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">83,251</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第77位：ブルーライム/初音ミク</title>
-        <link>https://www.nicovideo.jp/watch/sm44744539?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-11:/watch/sm44744539</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第75位：絶滅によろしく / ナースロボ＿タイプT</title>
+        <link>https://www.nicovideo.jp/watch/sm44676489?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44676489</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="ブルーライム/初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44744539/44744539.10991698" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">今回はてくてさんにギターを弾いてもらいました！耳の奥深くをじんと濡らすようなセクシーなサウンドで曲に</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:10</strong>｜<strong class="nico-info-date">2025年03月11日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">753</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">92</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">62</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">13</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="絶滅によろしく / ナースロボ＿タイプT" src="https://nicovideo.cdn.nimg.jp/thumbnails/44676489/44676489.39140537" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">szriです。ボカコレ2025冬TOP100 参加楽曲Vocal:ナースロボ＿タイプT(UTAU・V</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:50</strong>｜<strong class="nico-info-date">2025年02月22日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">66,307</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">569</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,465</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,684</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第78位：春嵐 / 初音ミク</title>
+        <title>第76位：春嵐 / 初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm36053074?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2019-12-07:/watch/sm36053074</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="春嵐 / 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/36053074/36053074.63093467" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">Shun-ran.on Twitter → https://twitter.com/casablan</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:34</strong>｜<strong class="nico-info-date">2019年12月07日 12：02：02</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,359,637</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8,830</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">51,882</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">35,970</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:34</strong>｜<strong class="nico-info-date">2019年12月07日 12：02：02</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,359,680</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8,830</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">51,884</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">35,970</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第79位：SToRY / Leo/need</title>
+        <title>第77位：SToRY / Leo/need</title>
         <link>https://www.nicovideo.jp/watch/so44608897?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-02-06:/watch/so44608897</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="SToRY / Leo/need" src="https://nicovideo.cdn.nimg.jp/thumbnails/44608897/44608897.68346388" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">『SToRY』Leo/need作詞・作曲：DECO*27https://x.com/DECO27編曲</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:36</strong>｜<strong class="nico-info-date">2025年02月06日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">127,860</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">260</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,516</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,132</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:36</strong>｜<strong class="nico-info-date">2025年02月06日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">127,891</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">260</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,516</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,132</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第80位：『サーーードアイ!!!!』feat.りむる</title>
-        <link>https://www.nicovideo.jp/watch/sm44675049?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44675049</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第78位：ブルーライム/初音ミク</title>
+        <link>https://www.nicovideo.jp/watch/sm44744539?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-11:/watch/sm44744539</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="『サーーードアイ!!!!』feat.りむる" src="https://nicovideo.cdn.nimg.jp/thumbnails/44675049/44675049.421439" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">見える見える見える!!!!!!?!!!!お久しぶりです(ある意味では) 和田たけあきですも〜お我慢で</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:44</strong>｜<strong class="nico-info-date">2025年02月22日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">73,270</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,464</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,411</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,515</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="ブルーライム/初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44744539/44744539.10991698" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">今回はてくてさんにギターを弾いてもらいました！耳の奥深くをじんと濡らすようなセクシーなサウンドで曲に</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:10</strong>｜<strong class="nico-info-date">2025年03月11日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">756</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">92</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">62</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">13</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第81位：神っぽいな / 初音ミク</title>
+        <title>第79位：【薬屋のひとりごと 第2期OP】百花繚乱 / 幾田りらバイオリンで弾いてみた。</title>
+        <link>https://www.nicovideo.jp/watch/sm44711929?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-01:/watch/sm44711929</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【薬屋のひとりごと 第2期OP】百花繚乱 / 幾田りらバイオリンで弾いてみた。" src="https://nicovideo.cdn.nimg.jp/thumbnails/44711929/44711929.30801989" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">今回はアニメ『薬屋のひとりごと』第2期OPより幾田りらさんの「百花繚乱」をバイオリンで演奏させて頂き</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:00</strong>｜<strong class="nico-info-date">2025年03月01日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,832</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">98</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">108</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">21</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第80位：神っぽいな / 初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm39334235?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2021-09-17:/watch/sm39334235</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="神っぽいな / 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/39334235/39334235.93170934" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">はじめましての人ははじめまして、ピノキオピーと申します。憧れちゃう！Music, lyrics, v</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:24</strong>｜<strong class="nico-info-date">2021年09月17日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,173,961</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">31,230</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">61,478</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">41,248</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:24</strong>｜<strong class="nico-info-date">2021年09月17日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,173,991</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">31,230</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">61,478</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">41,248</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第82位：『あめおとぶるうす』feat.宮舞モカ（TomocaRock MIX）</title>
+        <title>第81位：『あめおとぶるうす』feat.宮舞モカ（TomocaRock MIX）</title>
         <link>https://www.nicovideo.jp/watch/sm44752585?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-12:/watch/sm44752585</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="『あめおとぶるうす』feat.宮舞モカ（TomocaRock MIX）" src="https://nicovideo.cdn.nimg.jp/thumbnails/44752585/44752585.97752674" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">私が生涯初の作詞をしたオリジナル作品の「あめおとぶるうす feat.MAI」を宮舞モカちゃんに歌って</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:15</strong>｜<strong class="nico-info-date">2025年03月12日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">89</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">116</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">34</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">4</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:15</strong>｜<strong class="nico-info-date">2025年03月12日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">91</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">116</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">34</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">4</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第83位：レディフラミンゴ / Rulmry. feat. 初音ミク</title>
-        <link>https://www.nicovideo.jp/watch/so44707598?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/so44707598</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第82位：『サーーードアイ!!!!』feat.りむる</title>
+        <link>https://www.nicovideo.jp/watch/sm44675049?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-22:/watch/sm44675049</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="レディフラミンゴ / Rulmry. feat. 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44707598/44707598.72560575" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">39culture 2025 「POP」テーマソングMusic：Rulmry.X　https://x</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:20</strong>｜<strong class="nico-info-date">2025年03月10日 12：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,965</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">22</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">138</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">78</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="『サーーードアイ!!!!』feat.りむる" src="https://nicovideo.cdn.nimg.jp/thumbnails/44675049/44675049.421439" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">見える見える見える!!!!!!?!!!!お久しぶりです(ある意味では) 和田たけあきですも〜お我慢で</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:44</strong>｜<strong class="nico-info-date">2025年02月22日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">73,275</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,464</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,411</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,515</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第84位：初音ミク　オリジナル曲　「ローリンガール」</title>
+        <title>第83位：初音ミク　オリジナル曲　「ローリンガール」</title>
         <link>https://www.nicovideo.jp/watch/sm9714351?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2010-02-14:/watch/sm9714351</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="初音ミク　オリジナル曲　「ローリンガール」" src="https://nicovideo.cdn.nimg.jp/thumbnails/9714351/9714351" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">■wowakaです。　mylist/12484677　Web　http://www.hitorie.</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:16</strong>｜<strong class="nico-info-date">2010年02月14日 20：00：02</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">12,878,124</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">202,719</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">50,028</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">165,175</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:16</strong>｜<strong class="nico-info-date">2010年02月14日 20：00：02</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">12,878,147</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">202,719</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">50,028</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">165,175</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第85位：BLUE BACK / じん【Official MV】</title>
-        <link>https://www.nicovideo.jp/watch/sm44664536?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44664536</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="BLUE BACK / じん【Official MV】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44664536/44664536.25310356" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">「青」が 聴こえるMusic：じんRhythm Guitar：じんLead Guitar：野中海Ba</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:08</strong>｜<strong class="nico-info-date">2025年02月19日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">118,189</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">366</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,372</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">677</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第86位：ふぁんぶる！/ 重音テトSV</title>
+        <title>第84位：ふぁんぶる！/ 重音テトSV</title>
         <link>https://www.nicovideo.jp/watch/sm43841079?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2024-05-30:/watch/sm43841079</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="ふぁんぶる！/ 重音テトSV" src="https://nicovideo.cdn.nimg.jp/thumbnails/43841079/43841079.96215464" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">「ここまでやったらもう終わり」どうも藤原です。失敗の歌です。※ステムデータをご用意しました。二次創作</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:46</strong>｜<strong class="nico-info-date">2024年05月30日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">217,996</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,075</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,617</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,721</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:46</strong>｜<strong class="nico-info-date">2024年05月30日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">218,006</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,075</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">4,618</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,721</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第87位：初音ミク　オリジナル曲　「驫麤～とりぷるばか～」fullver.</title>
-        <link>https://www.nicovideo.jp/watch/sm3945173?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2008-07-13:/watch/sm3945173</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="初音ミク　オリジナル曲　「驫麤～とりぷるばか～」fullver." src="https://nicovideo.cdn.nimg.jp/thumbnails/3945173/3945173" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">馬鹿と天才は紙一重、神様だって普通の人間かもしれない。底辺でも頂点になれる、そんなクリエイターの応援</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:05</strong>｜<strong class="nico-info-date">2008年07月13日 06：49：19</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,248,810</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">55,447</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,284</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">23,305</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第88位：スマイル*シンフォニー / ワンダーランズ×ショウタイム</title>
-        <link>https://www.nicovideo.jp/watch/so44602493?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-03:/watch/so44602493</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="スマイル*シンフォニー / ワンダーランズ×ショウタイム" src="https://nicovideo.cdn.nimg.jp/thumbnails/44602493/44602493.27818372" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">『スマイル*シンフォニー』ワンダーランズ×ショウタイム作詞・作曲：DECO*27https://x.</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:25</strong>｜<strong class="nico-info-date">2025年02月03日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">135,727</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">211</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,602</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,123</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第89位：フュージョン / DI:Verse</title>
-        <link>https://www.nicovideo.jp/watch/so44645616?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-13:/watch/so44645616</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="フュージョン / DI:Verse" src="https://nicovideo.cdn.nimg.jp/thumbnails/44645616/44645616.53314081" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">『フュージョン』DI:Verse東雲彰人・天馬司・青柳冬弥・神代類・漣ジュン・守沢千秋・瀬名泉・逆先</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:34</strong>｜<strong class="nico-info-date">2025年02月13日 19：01：34</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">181,693</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">165</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,616</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,158</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第90位：ハローセカイ / 初音ミク × 鏡音リン × 鏡音レン × 巡音ルカ × MEIKO × KAITO</title>
-        <link>https://www.nicovideo.jp/watch/so44608901?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-09:/watch/so44608901</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="ハローセカイ / 初音ミク × 鏡音リン × 鏡音レン × 巡音ルカ × MEIKO × KAITO" src="https://nicovideo.cdn.nimg.jp/thumbnails/44608901/44608901.93885013" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">『ハローセカイ』初音ミク × 鏡音リン × 鏡音レン × 巡音ルカ × MEIKO × KAITO作</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:48</strong>｜<strong class="nico-info-date">2025年02月09日 00：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">150,931</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">556</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,410</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,097</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第91位：ロウワー / Flower</title>
+        <title>第85位：ロウワー / Flower</title>
         <link>https://www.nicovideo.jp/watch/sm39608927?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2021-11-11:/watch/sm39608927</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="ロウワー / Flower" src="https://nicovideo.cdn.nimg.jp/thumbnails/39608927/39608927.7527358" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』収録楽曲□Streaming/Dow</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:50</strong>｜<strong class="nico-info-date">2021年11月11日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,135,701</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">14,811</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">57,024</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">37,760</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:50</strong>｜<strong class="nico-info-date">2021年11月11日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,135,732</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">14,811</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">57,024</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">37,761</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第92位：【AC】AKAGE meme</title>
-        <link>https://www.nicovideo.jp/watch/sm44728214?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-05:/watch/sm44728214</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第86位：BLUE BACK / じん【Official MV】</title>
+        <link>https://www.nicovideo.jp/watch/sm44664536?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-19:/watch/sm44664536</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【AC】AKAGE meme" src="https://nicovideo.cdn.nimg.jp/thumbnails/44728214/44728214.36751928" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">立絵リンク：https://x.com/Mk2S_Re/status/186432289278957</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">0:10</strong>｜<strong class="nico-info-date">2025年03月05日 21：18：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">11,047</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">76</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">692</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">73</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="BLUE BACK / じん【Official MV】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44664536/44664536.25310356" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">「青」が 聴こえるMusic：じんRhythm Guitar：じんLead Guitar：野中海Ba</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:08</strong>｜<strong class="nico-info-date">2025年02月19日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">118,386</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">366</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,373</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">677</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第87位：スマイル*シンフォニー / ワンダーランズ×ショウタイム</title>
+        <link>https://www.nicovideo.jp/watch/so44602493?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-03:/watch/so44602493</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="スマイル*シンフォニー / ワンダーランズ×ショウタイム" src="https://nicovideo.cdn.nimg.jp/thumbnails/44602493/44602493.27818372" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">『スマイル*シンフォニー』ワンダーランズ×ショウタイム作詞・作曲：DECO*27https://x.</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:25</strong>｜<strong class="nico-info-date">2025年02月03日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">135,747</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">211</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,602</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,123</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第88位：初音ミク　オリジナル曲　「驫麤～とりぷるばか～」fullver.</title>
+        <link>https://www.nicovideo.jp/watch/sm3945173?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2008-07-13:/watch/sm3945173</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="初音ミク　オリジナル曲　「驫麤～とりぷるばか～」fullver." src="https://nicovideo.cdn.nimg.jp/thumbnails/3945173/3945173" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">馬鹿と天才は紙一重、神様だって普通の人間かもしれない。底辺でも頂点になれる、そんなクリエイターの応援</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:05</strong>｜<strong class="nico-info-date">2008年07月13日 06：49：19</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,248,812</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">55,468</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">3,285</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">23,305</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第89位：レディフラミンゴ / Rulmry. feat. 初音ミク</title>
+        <link>https://www.nicovideo.jp/watch/so44707598?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-10:/watch/so44707598</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="レディフラミンゴ / Rulmry. feat. 初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/44707598/44707598.72560575" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">39culture 2025 「POP」テーマソングMusic：Rulmry.X　https://x</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:20</strong>｜<strong class="nico-info-date">2025年03月10日 12：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,983</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">22</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">138</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">78</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第90位：ラットホープ - kemu feat. GUMI</title>
+        <link>https://www.nicovideo.jp/watch/sm44729314?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-06:/watch/sm44729314</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ラットホープ - kemu feat. GUMI" src="https://nicovideo.cdn.nimg.jp/thumbnails/44729314/44729314.95427694" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">歌コレ2024春　kemu部門 書き下ろし曲歌コレ公式サイト https://utattemita-</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:42</strong>｜<strong class="nico-info-date">2025年03月06日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">16,801</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">231</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">690</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">310</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第91位：なんなんだこの鬱は　/　MidLuster feat.兎眠りおん</title>
+        <link>https://www.nicovideo.jp/watch/sm44747954?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-12:/watch/sm44747954</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="なんなんだこの鬱は　/　MidLuster feat.兎眠りおん" src="https://nicovideo.cdn.nimg.jp/thumbnails/44747954/44747954.17992308" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">84作目です。ウツボザメはかわいいからね歌：兎眠りおん（Tone Rion）曲，動画：MidLust</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:24</strong>｜<strong class="nico-info-date">2025年03月12日 17：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">310</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">36</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">9</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第92位：ハローセカイ / 初音ミク × 鏡音リン × 鏡音レン × 巡音ルカ × MEIKO × KAITO</title>
+        <link>https://www.nicovideo.jp/watch/so44608901?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-09:/watch/so44608901</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ハローセカイ / 初音ミク × 鏡音リン × 鏡音レン × 巡音ルカ × MEIKO × KAITO" src="https://nicovideo.cdn.nimg.jp/thumbnails/44608901/44608901.93885013" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">『ハローセカイ』初音ミク × 鏡音リン × 鏡音レン × 巡音ルカ × MEIKO × KAITO作</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:48</strong>｜<strong class="nico-info-date">2025年02月09日 00：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">150,973</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">556</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,410</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,097</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第93位：少女レイ／初音ミク</title>
         <link>https://www.nicovideo.jp/watch/sm33546451?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2018-07-18:/watch/sm33546451</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="少女レイ／初音ミク" src="https://nicovideo.cdn.nimg.jp/thumbnails/33546451/33546451" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">そう君が悪いんだよ僕だけを見ててよ―。********music,Lyric: みきとP https</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:49</strong>｜<strong class="nico-info-date">2018年07月18日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,982,164</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">10,370</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">32,329</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">34,461</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:49</strong>｜<strong class="nico-info-date">2018年07月18日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,982,185</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">10,370</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">32,329</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">34,461</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第94位：ラットホープ - kemu feat. GUMI</title>
-        <link>https://www.nicovideo.jp/watch/sm44729314?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-06:/watch/sm44729314</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第94位：フュージョン / DI:Verse</title>
+        <link>https://www.nicovideo.jp/watch/so44645616?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-13:/watch/so44645616</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="ラットホープ - kemu feat. GUMI" src="https://nicovideo.cdn.nimg.jp/thumbnails/44729314/44729314.95427694" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">歌コレ2024春　kemu部門 書き下ろし曲歌コレ公式サイト https://utattemita-</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:42</strong>｜<strong class="nico-info-date">2025年03月06日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">16,779</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">231</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">689</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">310</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="フュージョン / DI:Verse" src="https://nicovideo.cdn.nimg.jp/thumbnails/44645616/44645616.53314081" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">『フュージョン』DI:Verse東雲彰人・天馬司・青柳冬弥・神代類・漣ジュン・守沢千秋・瀬名泉・逆先</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">2:34</strong>｜<strong class="nico-info-date">2025年02月13日 19：01：34</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">181,705</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">165</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">1,616</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,158</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第95位：FUN!! / MORE MORE JUMP！</title>
+        <title>第95位：【AC】AKAGE meme</title>
+        <link>https://www.nicovideo.jp/watch/sm44728214?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-05:/watch/sm44728214</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【AC】AKAGE meme" src="https://nicovideo.cdn.nimg.jp/thumbnails/44728214/44728214.36751928" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">立絵リンク：https://x.com/Mk2S_Re/status/186432289278957</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">0:10</strong>｜<strong class="nico-info-date">2025年03月05日 21：18：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">11,061</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">76</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">692</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">73</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第96位：FUN!! / MORE MORE JUMP！</title>
         <link>https://www.nicovideo.jp/watch/so44573442?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-01-31:/watch/so44573442</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="FUN!! / MORE MORE JUMP！" src="https://nicovideo.cdn.nimg.jp/thumbnails/44573442/44573442.70119843" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">『FUN!! 』MORE MORE JUMP！作詞・作曲：DECO*27https://x.com/</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:12</strong>｜<strong class="nico-info-date">2025年01月31日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">191,810</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">283</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,065</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,443</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:12</strong>｜<strong class="nico-info-date">2025年01月31日 18：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">191,836</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">283</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,065</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,443</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第96位：さくらんぼ【ずんだもんズ】</title>
-        <link>https://www.nicovideo.jp/watch/sm44631650?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-11:/watch/sm44631650</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="さくらんぼ【ずんだもんズ】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44631650/44631650.93374776" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">綺麗なほう汚いほう→sm44638383追記：広告ありがとうございます。</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:52</strong>｜<strong class="nico-info-date">2025年02月11日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">75,258</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,132</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,208</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">438</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第97位：なんなんだこの鬱は　/　MidLuster feat.兎眠りおん</title>
-        <link>https://www.nicovideo.jp/watch/sm44747954?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-12:/watch/sm44747954</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
-        <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="なんなんだこの鬱は　/　MidLuster feat.兎眠りおん" src="https://nicovideo.cdn.nimg.jp/thumbnails/44747954/44747954.17992308" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">84作目です。ウツボザメはかわいいからね歌：兎眠りおん（Tone Rion）曲，動画：MidLust</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">2:24</strong>｜<strong class="nico-info-date">2025年03月12日 17：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">306</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">36</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">8</strong></small></p>
-                    ]]></description>
-      </item>
-                <item>
-        <title>第98位：末星の位置/カゼヒキ</title>
+        <title>第97位：末星の位置/カゼヒキ</title>
         <link>https://www.nicovideo.jp/watch/sm44750912?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2025-03-11:/watch/sm44750912</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="末星の位置/カゼヒキ" src="https://nicovideo.cdn.nimg.jp/thumbnails/44750912/44750912.54723326" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">オフボオンボhttps://www.dropbox.com/scl/fo/hyajh1p5xy0go</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">4:22</strong>｜<strong class="nico-info-date">2025年03月11日 20：13：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">331</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">7</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">38</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">17</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">4:22</strong>｜<strong class="nico-info-date">2025年03月11日 20：13：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">333</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">7</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">39</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">17</strong></small></p>
+                    ]]></description>
+      </item>
+                <item>
+        <title>第98位：さくらんぼ【ずんだもんズ】</title>
+        <link>https://www.nicovideo.jp/watch/sm44631650?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2025-02-11:/watch/sm44631650</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="さくらんぼ【ずんだもんズ】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44631650/44631650.93374776" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">綺麗なほう汚いほう→sm44638383追記：広告ありがとうございます。</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:52</strong>｜<strong class="nico-info-date">2025年02月11日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">75,263</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,132</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">2,208</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">438</strong></small></p>
                     ]]></description>
       </item>
                 <item>
         <title>第99位：【巡音ルカ】　抜錨　【オリジナル】</title>
         <link>https://www.nicovideo.jp/watch/sm33360604?ref=rss_specified_ranking_rss2</link>
         <guid isPermaLink="false">tag:nicovideo.jp,2018-06-13:/watch/sm33360604</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
                       <p class="nico-thumbnail"><img alt="【巡音ルカ】　抜錨　【オリジナル】" src="https://nicovideo.cdn.nimg.jp/thumbnails/33360604/33360604" width="94" height="70" border="0"/></p>
                                 <p class="nico-description">　難しいものですね。 【天上宮バベル：完全犯罪】■HP(novel)⇒https://al-zal.</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">3:24</strong>｜<strong class="nico-info-date">2018年06月13日 19：45：25</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,172,026</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,898</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">21,022</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">20,465</strong></small></p>
+                                <p class="nico-info"><small><strong class="nico-info-length">3:24</strong>｜<strong class="nico-info-date">2018年06月13日 19：45：25</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,172,073</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,898</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">21,022</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">20,465</strong></small></p>
                     ]]></description>
       </item>
                 <item>
-        <title>第100位：【無料】ずーっと気持ちぃ♡耳舐め超特化でぺぺにハマっちゃお...♡【猫田ぺぺろ】</title>
-        <link>https://www.nicovideo.jp/watch/so44725513?ref=rss_specified_ranking_rss2</link>
-        <guid isPermaLink="false">tag:nicovideo.jp,2025-03-04:/watch/so44725513</guid>
-        <pubDate>Thu, 13 Mar 2025 05:00:07 +0900</pubDate>
+        <title>第100位：化けの花 / 25時、ナイトコードで。 × KAITO</title>
+        <link>https://www.nicovideo.jp/watch/so44198224?ref=rss_specified_ranking_rss2</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2024-10-19:/watch/so44198224</guid>
+        <pubDate>Thu, 13 Mar 2025 06:00:07 +0900</pubDate>
         <description><![CDATA[
-                      <p class="nico-thumbnail"><img alt="【無料】ずーっと気持ちぃ♡耳舐め超特化でぺぺにハマっちゃお...♡【猫田ぺぺろ】" src="https://nicovideo.cdn.nimg.jp/thumbnails/44725513/44725513.52606906" width="94" height="70" border="0"/></p>
-                                <p class="nico-description">おかえりなさいませ！ご主人様！バーチャルメイド喫茶ますかれーど、アナーキーなメイド長♡猫田ぺぺろです</p>
-                                <p class="nico-info"><small><strong class="nico-info-length">38:59</strong>｜<strong class="nico-info-date">2025年03月04日 23：50：11</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">11,722</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">10</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">224</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">132</strong></small></p>
+                      <p class="nico-thumbnail"><img alt="化けの花 / 25時、ナイトコードで。 × KAITO" src="https://nicovideo.cdn.nimg.jp/thumbnails/44198224/44198224.67173288" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">『化けの花』25時、ナイトコードで。 × KAITO作詞・作曲：なきそ https://x.com/</p>
+                                <p class="nico-info"><small><strong class="nico-info-length">1:58</strong>｜<strong class="nico-info-date">2024年10月19日 21：45：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,146,785</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">994</strong>&nbsp;&#x20;いいね！：<strong class="nico-info-total-like">8,281</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">4,365</strong></small></p>
                     ]]></description>
       </item>
       
